@@ -29,8 +29,8 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação
 - **GitHub & Git**: Controle de versão e colaboração em projetos.
 
 ## 📬 Vamos nos conectar!
-- **LinkedIn**: [Crislei Jenuino](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
-- **YouTube**: [Canal Crislei Keli](https://www.youtube.com/@crisleikeli)
-- **Instagram**: [Crislei Keli](https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+[![YouTube](https://img.shields.io/badge/YouTube-Crislei%20Keli-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@crisleikeli)
+[![Instagram](https://img.shields.io/badge/Instagram-Crislei%20Keli-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww)
 
 Sinta-se à vontade para conferir meus repositórios, sugerir melhorias e colaborar! Vamos aprender juntos! 😄
