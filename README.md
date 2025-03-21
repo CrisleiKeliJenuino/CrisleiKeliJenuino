@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação
 - 📹 Tenho um canal no YouTube onde compartilho **conteúdo bíblico**, e estou também criando conteúdo em outras plataformas.
 
 ## 🚀 Meus Projetos:
-- 💡 Em breve, publicarei  um projeto relacionado a **Um sintemade Cuidador de Idosos** em **Arduino** assim que finalizar meu TCC.
+- 💡 Em breve...
 - 🛠 Estou em busca de um estágio para ganhar experiência prática na área de **TI**.
 - 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar a vida das pessoas e tornar o mundo mais conectado.
 
