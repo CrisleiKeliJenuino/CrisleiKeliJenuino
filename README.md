@@ -1,6 +1,6 @@
 # Olá! Eu sou a Crislei! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação**, apaixonada por **Redes de Computadores** e **Banco de Dados**, e estou sempre buscando aprender novas habilidades e compartilhar meu conhecimento.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação**, e **Redes de Computadores**, e estou sempre buscando aprender novas habilidades e compartilhar meu conhecimento.
 
 ## 🧑‍💻 Sobre Mim:
 - 🎓 Estudo **Bacharelado em Tecnologia da Informação** na **Univesp Oficial**.
