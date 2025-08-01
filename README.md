@@ -11,7 +11,6 @@ sempre buscando aprender novas habilidades e compartilhar conhecimento.
     - Também fui reconhecida com certificado de ALUNA DESTAQUE pelo desempenho meu acadêmico.
 - 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,  
   com ênfase em **inteligência artificial** e **automação**.
-- 👩‍👧‍👦 Sou casada e tenho 3 filhos incríveis, que me inspiram todos os dias.
 - 🛠️ Atualmente iniciei o curso técnico de **Desenvolvimento de Sistemas**, também na  
   **Etec Prof. Massuyuki Kawano**, ampliando minhas competências práticas.
 
