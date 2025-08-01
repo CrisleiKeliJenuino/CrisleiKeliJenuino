@@ -7,8 +7,8 @@ sempre buscando aprender novas habilidades e compartilhar conhecimento.
 - 🎓 Estudo Bacharelado em Tecnologia da Informação na Univesp Oficial.
 - 🎓 Concluí o curso técnico em Redes de Computadores na Etec Prof. Massuyuki Kawano, em Tupã-SP.
     - Fui selecionada para um intercâmbio cultural na Irlanda por mérito acadêmico, onde atingi o nível A2 de inglês.
-    - Recebi menção honrosa pela participação no intercâmbio
-    - Fui reconhecida com certificado de aluna destaque pelo desempenho meu acadêmico.
+    - Recebi certificado de menção Honrosa por representar a unidade de ensino internacionalmente.
+    - Também fui reconhecida com certificado de ALUNA DESTAQUE pelo desempenho meu acadêmico.
 - 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,  
   com ênfase em **inteligência artificial** e **automação**.
 - 👩‍👧‍👦 Sou casada e tenho 3 filhos incríveis, que me inspiram todos os dias.
