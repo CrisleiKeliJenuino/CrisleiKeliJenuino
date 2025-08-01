@@ -17,7 +17,7 @@ sempre buscando aprender novas habilidades e compartilhar conhecimento.
 
 ## 🚀 Meus Projetos
 
-### 💡 SmartCare – Sistema de Monitoramento de Idosos  
+### 💡 [SmartCare – Sistema de Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)  
 Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) técnico em Redes de Computadores.  
 O sistema, baseado em **ESP32**, permite detectar **movimentos**, **presença** e medir a **temperatura corporal sem contato**,  
 além de monitorar a **distância** entre o paciente e o dispositivo.  
