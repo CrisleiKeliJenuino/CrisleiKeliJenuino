@@ -24,8 +24,6 @@ além de monitorar a **distância** entre o paciente e o dispositivo.
 Os dados são exibidos em tempo real no **dashboard do Adafruit IO** e também em um **display OLED**.  
 Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
 
-🔒 *O código-fonte deste projeto não está disponível publicamente.*
-
 - 🛠 Estou em busca de um estágio para ganhar experiência prática na área de **TI**.
 - 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar  
   a vida das pessoas e tornar o mundo mais conectado.
