@@ -1,18 +1,33 @@
 # Olá! Eu sou a Crislei! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação**, e **Redes de Computadores**, e estou sempre buscando aprender novas habilidades e compartilhar meu conhecimento.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, 
+sempre buscando aprender novas habilidades e compartilhar conhecimento.
 
 ## 🧑‍💻 Sobre Mim:
 - 🎓 Estudo **Bacharelado em Tecnologia da Informação** na **Univesp Oficial**.
-- 💻 Curso **Redes de Computadores** na **Etec Prof. Massuyuki Kawano**, em Tupã-SP.
-- 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**, com ênfase em **inteligência artificial** e **automação**.
+- 🎓 Concluí o curso técnico em **Redes de Computadores** na **Etec Prof. Massuyuki Kawano**, em Tupã-SP.
+- 🇮🇪 Recebi **menção honrosa** pelo desempenho e participação em um **intercâmbio cultural na Irlanda**,
+  onde atingi o **nível A2 de inglês**.
+- 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,
+  com ênfase em **inteligência artificial** e **automação**.
 - 👩‍👧‍👦 Sou casada e tenho 3 filhos incríveis, que me inspiram todos os dias.
-- 📹 Tenho um canal no YouTube onde compartilho **conteúdo bíblico**, e estou também criando conteúdo em outras plataformas.
+- 🛠️ Atualmente iniciei o curso técnico de **Desenvolvimento de Sistemas**, também na
+  **Etec Prof. Massuyuki Kawano**ampliando minhas competências práticas.
 
-## 🚀 Meus Projetos:
-- 💡 Em breve...
+## 🚀 Meus Projetos
+
+### 💡 SmartCare – Sistema de Monitoramento de Idosos  
+Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) técnico em Redes de Computadores.  
+O sistema, baseado em **ESP32**, permite detectar **movimentos**, **presença** e medir a **temperatura corporal sem contato**, 
+além de monitorar a **distância** entre o paciente e o dispositivo.  
+Os dados são exibidos em tempo real no **dashboard do Adafruit IO** e também em um **display OLED**.  
+Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
+
+🔒 *O código-fonte deste projeto não está disponível publicamente.*
+
 - 🛠 Estou em busca de um estágio para ganhar experiência prática na área de **TI**.
-- 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar a vida das pessoas e tornar o mundo mais conectado.
+- 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar
+  a vida das pessoas e tornar o mundo mais conectado.
 
 ## 📈 Soft Skills:
 - **Comunicação**: Tenho facilidade em me expressar de maneira clara e eficaz, tanto escrita quanto verbalmente.
@@ -23,14 +38,11 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação
 
 ## 🌱 Atualmente Aprendendo:
 - **Arduino**: Projetos de automação e protótipos eletrônicos.
-- **Redes de Computadores**: Configuração de redes e protocolos.
 - **Python**: Desenvolvimento de sistemas e automação.
 - **Inteligência Artificial**: Otimização e automação de processos com IA.
 - **GitHub & Git**: Controle de versão e colaboração em projetos.
 
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
-[![YouTube](https://img.shields.io/badge/YouTube-Crislei%20Keli-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@crisleikeli)
-[![Instagram](https://img.shields.io/badge/Instagram-Crislei%20Keli-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww)
 
 Sinta-se à vontade para conferir meus repositórios, sugerir melhorias e colaborar! Vamos aprender juntos! 😄
