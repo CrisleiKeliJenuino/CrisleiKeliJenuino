@@ -1,25 +1,25 @@
 # Olá! Eu sou a Crislei! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, 
+Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia,  
 sempre buscando aprender novas habilidades e compartilhar conhecimento.
 
 ## 🧑‍💻 Sobre Mim:
-- 🎓 Estudo **Bacharelado em Tecnologia da Informação** na **Univesp Oficial**.
-- 🎓 Concluí o curso técnico em **Redes de Computadores** na **Etec Prof. Massuyuki Kawano**, em Tupã-SP.
-  Recebi **menção honrosa** pelo desempenho e participação em um **intercâmbio cultural na Irlanda**,
-  onde atingi o **nível A2 de inglês**.
-- 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,
+- 🎓 Estudo Bacharelado em Tecnologia da Informação na Univesp Oficial.
+- 🎓 Concluí o curso técnico em Redes de Computadores na Etec Prof. Massuyuki Kawano, em Tupã-SP.
+      Fui selecionada para um intercâmbio cultural na Irlanda por mérito acadêmico, 
+      onde atingi o nível A2 de inglês.Recebi menção honrosa pela participação no intercâmbio 
+      e fui reconhecida com certificado de aluna destaque pelo desempenho acadêmico.
+- 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,  
   com ênfase em **inteligência artificial** e **automação**.
 - 👩‍👧‍👦 Sou casada e tenho 3 filhos incríveis, que me inspiram todos os dias.
-- 🛠️ Atualmente iniciei o curso técnico de **Desenvolvimento de Sistemas**, também na
-  **Etec Prof. Massuyuki Kawano**ampliando minhas competências práticas.
+- 🛠️ Atualmente iniciei o curso técnico de **Desenvolvimento de Sistemas**, também na  
+  **Etec Prof. Massuyuki Kawano**, ampliando minhas competências práticas.
 
 ## 🚀 Meus Projetos
 
 ### 💡 SmartCare – Sistema de Monitoramento de Idosos  
 Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) técnico em Redes de Computadores.  
-O sistema, baseado em **ESP32**, permite detectar **movimentos**, 
-**presença** e medir a **temperatura corporal sem contato**, 
+O sistema, baseado em **ESP32**, permite detectar **movimentos**, **presença** e medir a **temperatura corporal sem contato**,  
 além de monitorar a **distância** entre o paciente e o dispositivo.  
 Os dados são exibidos em tempo real no **dashboard do Adafruit IO** e também em um **display OLED**.  
 Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
@@ -27,7 +27,7 @@ Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
 🔒 *O código-fonte deste projeto não está disponível publicamente.*
 
 - 🛠 Estou em busca de um estágio para ganhar experiência prática na área de **TI**.
-- 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar
+- 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar  
   a vida das pessoas e tornar o mundo mais conectado.
 
 ## 📈 Soft Skills:
