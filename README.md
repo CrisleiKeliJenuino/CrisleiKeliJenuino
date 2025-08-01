@@ -6,9 +6,9 @@ sempre buscando aprender novas habilidades e compartilhar conhecimento.
 ## 🧑‍💻 Sobre Mim:
 - 🎓 Estudo Bacharelado em Tecnologia da Informação na Univesp Oficial.
 - 🎓 Concluí o curso técnico em Redes de Computadores na Etec Prof. Massuyuki Kawano, em Tupã-SP.
-      Fui selecionada para um intercâmbio cultural na Irlanda por mérito acadêmico, 
-      onde atingi o nível A2 de inglês.Recebi menção honrosa pela participação no intercâmbio 
-      e fui reconhecida com certificado de aluna destaque pelo desempenho acadêmico.
+    - Fui selecionada para um intercâmbio cultural na Irlanda por mérito acadêmico, onde atingi o nível A2 de inglês.
+    - Recebi menção honrosa pela participação no intercâmbio
+    - Fui reconhecida com certificado de aluna destaque pelo desempenho meu acadêmico.
 - 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,  
   com ênfase em **inteligência artificial** e **automação**.
 - 👩‍👧‍👦 Sou casada e tenho 3 filhos incríveis, que me inspiram todos os dias.
@@ -45,5 +45,3 @@ Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
 
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
-
-Sinta-se à vontade para conferir meus repositórios, sugerir melhorias e colaborar! Vamos aprender juntos! 😄
