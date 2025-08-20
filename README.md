@@ -34,11 +34,5 @@ Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
 - **Gestão de Tempo**: Organizo minhas tarefas e prazos de forma eficaz, priorizando o que é mais importante.
 - **Resolução de Problemas**: Consigo encontrar soluções criativas e eficazes para os desafios que surgem.
 
-## 🌱 Atualmente Aprendendo:
-- **Arduino**: Projetos de automação e protótipos eletrônicos.
-- **Python**: Desenvolvimento de sistemas e automação.
-- **Inteligência Artificial**: Otimização e automação de processos com IA.
-- **GitHub & Git**: Controle de versão e colaboração em projetos.
-
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
