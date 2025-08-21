@@ -6,12 +6,13 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 ---
 
 ## 👩‍🎓 Sobre Mim
-- 🎓 **Bacharelado em Tecnologia da Informação** – Univesp Oficial
-- 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano, Tupã-SP
-    - Intercâmbio cultural na Irlanda (nível A2 de inglês)
+- 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano
+    - Intercâmbio cultural na Irlanda por mérito acadêmico (nível A2 de inglês)
     - Certificado de Menção Honrosa e Aluna Destaque
-- 📚 Interesse em **desenvolvimento de software**, **IA** e **automação**
-- 🛠️ Iniciando **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
+- 🎓 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
+- 🎓 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
+
+## 📚 Interece em... - **Desenvolvimento de software**, **IA** e **Automação**
 
 ---
 
