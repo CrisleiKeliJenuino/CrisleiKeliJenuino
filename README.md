@@ -65,3 +65,5 @@ Sistema baseado em **ESP32** para monitoramento de idosos, com sensores de movim
 ## 📬 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+[![GitHub](https://img.shields.io/badge/GitHub-CrisleiKeliJenuino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisleiKeliJenuino)
+[![E-mail](https://img.shields.io/badge/E--mail-crislei.seuemail%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
