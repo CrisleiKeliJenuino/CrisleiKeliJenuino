@@ -1,43 +1,64 @@
-# Olá! Eu sou a Crislei! 👋
+# 👋 Olá! Eu sou a Crislei!
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia,  
-sempre buscando aprender novas habilidades e compartilhar conhecimento.
+Bem-vindo ao meu perfil no GitHub!  
+Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, sempre buscando aprender novas habilidades e compartilhar conhecimento.
 
-## 🧑‍💻 Sobre Mim:
-- 🎓 Estudo Bacharelado em Tecnologia da Informação na Univesp Oficial.
-- 🎓 Concluí o curso técnico em Redes de Computadores na Etec Prof. Massuyuki Kawano, em Tupã-SP.
-    - Fui selecionada para um intercâmbio cultural na Irlanda por mérito acadêmico, onde atingi o nível A2 de inglês.
-    - Recebi certificado de menção Honrosa por representar a unidade de ensino internacionalmente.
-    - Também fui reconhecida com certificado de ALUNA DESTAQUE pelo desempenho meu acadêmico.
-- 📚 Busco sempre aprender mais sobre **desenvolvimento de software** e **tecnologias emergentes**,  
-  com ênfase em **inteligência artificial** e **automação**.
-- 🛠️ Atualmente iniciei o curso técnico de **Desenvolvimento de Sistemas**, também na  
-  **Etec Prof. Massuyuki Kawano**, ampliando minhas competências práticas.
+---
 
-## 🚀 Meus Projetos
+## 👩‍🎓 Sobre Mim
+- 🎓 **Bacharelado em Tecnologia da Informação** – Univesp Oficial
+- 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano, Tupã-SP
+    - Intercâmbio cultural na Irlanda (nível A2 de inglês)
+    - Certificado de Menção Honrosa e Aluna Destaque
+- 📚 Interesse em **desenvolvimento de software**, **IA** e **automação**
+- 🛠️ Iniciando **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
 
-### 💡 [SmartCare – Sistema de Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)  
-Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) técnico em Redes de Computadores.  
-O sistema, baseado em **ESP32**, permite detectar **movimentos**, **presença** e medir a **temperatura corporal sem contato**,  
-além de monitorar a **distância** entre o paciente e o dispositivo.  
-Os dados são exibidos em tempo real no **dashboard do Adafruit IO** e também em um **display OLED**.  
-Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
+---
 
-- 🛠 Estou em busca de um estágio para ganhar experiência prática na área de **TI**.
-- 🎯 Meu objetivo é contribuir para a criação de soluções tecnológicas que possam melhorar  
-  a vida das pessoas e tornar o mundo mais conectado.
+## 💡 Projetos em Destaque
 
-## 📈 Soft Skills:
-- **Comunicação**: Tenho facilidade em me expressar de maneira clara e eficaz, tanto escrita quanto verbalmente.
-- **Trabalho em Equipe**: Consigo colaborar e aprender com outras pessoas de diferentes áreas e com diversos perfis.
-- **Liderança**: Estou em desenvolvimento constante para ser uma líder motivadora e inspiradora.
-- **Gestão de Tempo**: Organizo minhas tarefas e prazos de forma eficaz, priorizando o que é mais importante.
-- **Resolução de Problemas**: Consigo encontrar soluções criativas e eficazes para os desafios que surgem.
+### [SmartCare – Sistema de Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
+Sistema baseado em **ESP32** para monitoramento de idosos, com sensores de movimento, presença e temperatura, exibindo dados em tempo real no **Adafruit IO** e display OLED.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## 🚀 Linguagens que estou aprendendo
 <!--START_SECTION:langs-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=default)
 <!--END_SECTION:langs-->
 
+---
+
+## 📈 GitHub Stats
+
+![CrisleiKeliJenuino's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=default)
+
+---
+
+## 🧠 Soft Skills
+
+- **Comunicação:** Clareza e eficácia na expressão escrita e verbal
+- **Trabalho em Equipe:** Colaboração com pessoas de diferentes áreas
+- **Liderança:** Desenvolvimento constante como líder motivadora
+- **Gestão de Tempo:** Organização e priorização de tarefas
+- **Resolução de Problemas:** Soluções criativas e eficazes para desafios
+
+---
+
 ## 📬 Vamos nos conectar!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+
+---
+
+*Se precisar de mais sugestões ou quiser personalizar ainda mais, é só pedir!*
