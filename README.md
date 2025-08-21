@@ -34,5 +34,9 @@ Foram utilizados os sensores **MLX90614**, **PIR HC-SR501** e **HC-SR04**.
 - **Gestão de Tempo**: Organizo minhas tarefas e prazos de forma eficaz, priorizando o que é mais importante.
 - **Resolução de Problemas**: Consigo encontrar soluções criativas e eficazes para os desafios que surgem.
 
+## 🚀 Linguagens que estou aprendendo
+<!--START_SECTION:langs-->
+<!--END_SECTION:langs-->
+
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)

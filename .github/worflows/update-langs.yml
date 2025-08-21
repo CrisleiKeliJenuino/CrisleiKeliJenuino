@@ -1,0 +1,19 @@
+name: Atualizar linguagens no README
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # toda segunda-feira
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions-cool/github-profile-readme-helper@v2
+        with:
+          action: 'language'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          readme-path: 'README.md'
+          start-marker: '<!--START_SECTION:langs-->'
+          end-marker: '<!--END_SECTION:langs-->'
