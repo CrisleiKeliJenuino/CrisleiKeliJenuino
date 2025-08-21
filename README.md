@@ -12,7 +12,13 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 - 🎓 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
 - 🎓 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
 
-## 📚 Interece em... - **Desenvolvimento de software**, **IA** e **Automação**
+---
+
+## 📚 Interesses
+
+- **Desenvolvimento de Software**
+- **Inteligência Artificial**
+- **Automação**
 
 ---
 
