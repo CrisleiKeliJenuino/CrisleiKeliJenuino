@@ -1,6 +1,6 @@
 # ✨ Hi there, I'm Crislei! ✨
 
-[![Portuguese](https://img.shields.io/badge/Portuguese-00529b?style=for-the-badge)](README-pt.md)
+[![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
 💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
 
