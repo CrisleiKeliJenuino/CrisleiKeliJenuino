@@ -1,8 +1,6 @@
 # ✨ Hi there, I'm Crislei! ✨  
 
-💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
-Currently studying IT with focus on **software development, IoT, and information security**.  
-I enjoy working on innovative projects like **SmartCare** and I’m always eager to learn and share knowledge.  
+💻 IT Student | Passionate about Technology & Innovation | Future Software Developer 
 
 ---
 
