@@ -8,13 +8,14 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 ## 👩‍🎓 Sobre Mim
 - 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
     <p>
-      <img src="certificados/mencao_honrosa.png" alt="Menção Honrosa" width="150"/>
-      <img src="certificados/ingles_irlanda.png" alt="Certificado de Inglês - Irlanda" width="150"/>
+      <img src="certificados/Menção Honrosa.jpg" alt="Menção Honrosa" width="150"/>
+      <img src="certificados/Aluna Destaque.jpg" alt="Aluna Destaque" width="150"/>
+      <img src="certificados/General English - A2" alt="Certificado de Inglês - Nível A2" width="150"/>
     </p>
     - Intercâmbio cultural na Irlanda por mérito acadêmico (nível A2 de inglês)
     - Certificado de Menção Honrosa e Aluna Destaque
-- 🎓 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
-- 🎓 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
+- 🚧 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
+- 🚧 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
 
 ---
 
