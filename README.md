@@ -1,4 +1,10 @@
-# ✨ Hi there, I'm Crislei! ✨ [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md) ![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue) 
+<div align="right">
+  [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
+</div>
+
+# ✨ Hi there, I'm Crislei! ✨
+
+...
 
 💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
 
@@ -35,7 +41,12 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 
 ---
 
-![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)   
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisleiKeliJenuino&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)    
 
 ---
 
