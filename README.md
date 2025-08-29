@@ -47,7 +47,7 @@ Communication | Teamwork | Leadership | Time Management | Problem Solving
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)  
-[![e-mail](https://img.shields.io/badge/e--mail-crislei.jenuino@etec.sp.gov.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)  
-[![Instagram](https://img.shields.io/badge/Instagram-@crisleikeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)  
-[![Duolingo](https://img.shields.io/badge/Duolingo-@ChryslleyKelly-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
+[![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)
