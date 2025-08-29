@@ -1,27 +1,28 @@
-# ✨ Hi there, I'm Crislei! ✨
+# ✨ Hi there, I'm Crislei! ✨  
 
-Information Technology student always seeking new knowledge and challenges.  
-Here I share projects, achievements, and my journey in the tech world.
+💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
+Currently studying IT with focus on **software development, IoT, and information security**.  
+I enjoy working on innovative projects like **SmartCare** and I’m always eager to learn and share knowledge.  
 
 ---
 
 ## 👩‍🎓 Education
 - 🎓 **Computer Networks Technician** – Etec Prof. Massuyuki Kawano  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))
-  - [Honorable Mention](certificados/Menção%20Honrosa.jpg) | [Outstanding Student](certificados/Aluna%20Destaque.jpg)
-- 🚧 **Bachelor’s in Information Technology** – Univesp (in progress)
-- 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))  
+  - [Honorable Mention](certificados/Menção%20Honrosa.jpg) | [Outstanding Student](certificados/Aluna%20Destaque.jpg)  
+- 🚧 **Bachelor’s in Information Technology** – Univesp (in progress)  
+- 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)  
 
 ---
 
 ## 📚 Interests
-**Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**
+**Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**  
 
 ---
 
 ## 💡 Featured Project
 [SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare):  
-A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.
+A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
 
 ---
 
@@ -36,17 +37,19 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 
 ---
 
-## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)
+## 🚀 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
 
 ---
 
 ## 🧠 Soft Skills
-Communication | Teamwork | Leadership | Time Management | Problem Solving
+Communication | Teamwork | Leadership | Time Management | Problem Solving  
 
 ---
 
 ## 📬 Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)  
-[![e-mail](https://img.shields.io/badge/e--mail-crislei.jenuino@etec.sp.gov.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
+[![e-mail](https://img.shields.io/badge/e--mail-crislei.jenuino@etec.sp.gov.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)  
+[![Instagram](https://img.shields.io/badge/Instagram-@crisleikeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)  
+[![Duolingo](https://img.shields.io/badge/Duolingo-@ChryslleyKelly-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
