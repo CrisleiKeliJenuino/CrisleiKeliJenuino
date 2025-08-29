@@ -37,7 +37,12 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 
 ---
 
-![Linguagens de programação mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisleiKeliJenuino&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue) 
 
 ---
 
