@@ -1,6 +1,6 @@
 # ✨ Olá, eu sou a Crislei! ✨
 
-[English 🇺🇸](README.md)
+[![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
 
