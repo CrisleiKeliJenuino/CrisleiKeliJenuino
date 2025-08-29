@@ -16,9 +16,8 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 
 ## 📚 Interesses
 
-- **Desenvolvimento de Software**
-- **Inteligência Artificial**
-- **Automação**
+- **Desenvolvimento de Software**, **Internet das Coisas (IoT)**, **Qualidade de Software (QA)**, **Inteligência Artificial**, **Banco de Dados**, **Análise de Software**, **Automação**, **Segurança da Informação**
+- **Automação** - **Segurança da Informação**
 
 ---
 
