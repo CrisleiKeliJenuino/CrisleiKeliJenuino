@@ -8,7 +8,7 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 ## 👩‍🎓 Sobre Mim
 - 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
     - [Certificado de Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Certificado de Aluna Destaque](certificados/Aluna%20Destaque.jpg)
-    - 🇮🇪 Intercâmbio cultural na Irlanda por mérito acadêmico!
+    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="20"/> Intercâmbio cultural na Irlanda por mérito acadêmico!
     - [Certificado de Inglês - Nível A2 (Irlanda)](certificados/General-English-A2.jpg)
 - 🚧 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
 - 🚧 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
