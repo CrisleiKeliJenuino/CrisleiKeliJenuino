@@ -1,4 +1,6 @@
-# ✨ Olá, eu sou a Crislei! ✨  
+# ✨ Olá, eu sou a Crislei! ✨
+
+[English 🇺🇸](README.md)
 
 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
 

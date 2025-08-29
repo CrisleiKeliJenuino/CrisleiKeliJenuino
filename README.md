@@ -1,4 +1,6 @@
-# ✨ Hi there, I'm Crislei! ✨  
+# ✨ Hi there, I'm Crislei! ✨
+
+[Português 🇧🇷](README-pt.md)
 
 💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
 
