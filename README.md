@@ -6,7 +6,11 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 ---
 
 ## 👩‍🎓 Sobre Mim
-- 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano
+- 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
+    <p>
+      <img src="certificados/mencao_honrosa.png" alt="Menção Honrosa" width="150"/>
+      <img src="certificados/ingles_irlanda.png" alt="Certificado de Inglês - Irlanda" width="150"/>
+    </p>
     - Intercâmbio cultural na Irlanda por mérito acadêmico (nível A2 de inglês)
     - Certificado de Menção Honrosa e Aluna Destaque
 - 🎓 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
