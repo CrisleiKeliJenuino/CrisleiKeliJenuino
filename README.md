@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou a Crislei!
 
-Bem-vindo ao meu perfil no GitHub!  
-Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, sempre buscando aprender novas habilidades e compartilhar conhecimento.
+Seja bem-vindo(a) ao meu perfil no GitHub!  
+Sou estudante e apaixonada por **Tecnologia da Informação**, sempre em busca de novos aprendizados e desafios.  
+Aqui compartilho projetos, conquistas e minha evolução na área de tecnologia.  
+Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
 
 ---
 
@@ -16,9 +18,11 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 
 ## 📚 Interesses
 
-- **Desenvolvimento de Software**  - **Internet das Coisas (IoT)**  - **Qualidade de Software (QA)** 
-- **Inteligência Artificial**   -  **Banco de Dados**  - **Análise de Software** 
-- **Segurança da Informação**  - **Automação**
+- **Banco de Dados** 
+- **Desenvolvimento de Software** 
+- **Inteligência Artificial**  
+- **Qualidade de Software (QA)** 
+- **Segurança da Informação**  
 
 ---
 
