@@ -1,40 +1,31 @@
 # 👋 Olá! Eu sou a Crislei!
 
-Seja bem-vindo(a) ao meu perfil no GitHub!  
-Sou estudante e apaixonada por **Tecnologia da Informação**, sempre em busca de novos aprendizados e desafios.  
-Aqui compartilho projetos, conquistas e minha evolução na área de tecnologia.  
-Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+Estudante de **Tecnologia da Informação** em busca de novos aprendizados e desafios.  
+Aqui compartilho projetos, conquistas e minha evolução na área de tecnologia.
 
 ---
 
-## 👩‍🎓 Sobre Mim
+## 👩‍🎓 Formação
 - 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
-    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="20"/> Intercâmbio cultural na Irlanda por mérito acadêmico
-    - [Certificado de Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Certificado de Aluna Destaque](certificados/Aluna%20Destaque.jpg) | [Certificado de Inglês - Nível A2 (Irlanda)](certificados/General-English-A2.jpg)
-- 🚧 **Cursando Bacharelado em Tecnologia da Informação** – Univesp Oficial
-- 🚧 **Cursando Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General-English-A2.jpg))
+  - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)
+- 🚧 **Bacharelado em Tecnologia da Informação** – Univesp Oficial
+- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
 
 ---
 
 ## 📚 Interesses
-
-- **Banco de Dados** 
-- **Desenvolvimento de Software** 
-- **Inteligência Artificial**  
-- **Qualidade de Software (QA)** 
-- **Segurança da Informação**  
+**Banco de Dados** | **Desenvolvimento de Software** | **Inteligência Artificial** | **QA** | **Segurança da Informação**
 
 ---
 
-## 💡 Projetos em Destaque
-
-### [SmartCare – Sistema de Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
-Sistema baseado em **ESP32** para monitoramento de idosos, com sensores de movimento, presença e temperatura, exibindo dados em tempo real no **Adafruit IO** e display OLED.
+## 💡 Projeto em Destaque
+[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare):  
+Sistema com **ESP32** para monitoramento de idosos, sensores e dados em tempo real no **Adafruit IO**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
+## 🛠️ Tecnologias
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,31 +34,17 @@ Sistema baseado em **ESP32** para monitoramento de idosos, com sensores de movim
 
 ---
 
-## 🚀 Linguagens que estou aprendendo
-<!--START_SECTION:langs-->
+## 🚀 Linguagens em Aprendizado
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=default)
-<!--END_SECTION:langs-->
-
----
-
-## 📈 GitHub Status
-
-![CrisleiKeliJenuino's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=default)
 
 ---
 
 ## 🧠 Soft Skills
-
-- **Comunicação:** Clareza e eficácia na expressão escrita e verbal
-- **Trabalho em Equipe:** Colaboração com pessoas de diferentes áreas
-- **Liderança:** Desenvolvimento constante como líder motivadora
-- **Gestão de Tempo:** Organização e priorização de tarefas
-- **Resolução de Problemas:** Soluções criativas e eficazes para desafios
+Comunicação | Trabalho em Equipe | Liderança | Gestão de Tempo | Resolução de Problemas
 
 ---
 
-## 📬 Vamos nos conectar!
+## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-CrisleiKeliJenuino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisleiKeliJenuino)  
 [![e-mail](https://img.shields.io/badge/e--mail-crislei.jenuino@etec.sp.gov.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
