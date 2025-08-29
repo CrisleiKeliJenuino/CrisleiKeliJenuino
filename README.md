@@ -1,6 +1,6 @@
 # ✨ Hi there, I'm Crislei! ✨  
 
-💻 IT Student | Passionate about Technology & Innovation | Future Software Developer 
+💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ## 💡 Featured Project
-[SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare):  
+[**SmartCare – Elderly Monitoring**](https://github.com/CrisleiKeliJenuino/SmartCare):  
 A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
 
 ---
@@ -38,6 +38,13 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 ## 🚀 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark)](https://git.io/streak-stats)  
+![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)  
+
+---
+
+## 🎓 Certifications
+You can check all my certificates [here](certificados/).  
 
 ---
 
@@ -50,4 +57,8 @@ Communication | Teamwork | Leadership | Time Management | Problem Solving
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
-[![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)
+[![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
+
+---
+
+✨ _“Turning ideas into code and challenges into growth.”_ 🚀  
