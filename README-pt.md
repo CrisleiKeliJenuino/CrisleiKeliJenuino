@@ -1,6 +1,4 @@
-# ✨ Olá, eu sou a Crislei! ✨
-
-[![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
+# ✨ Olá, eu sou a Crislei! ✨ [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
 
@@ -56,9 +54,9 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
 ---
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
 [![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
 
 ---
