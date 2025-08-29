@@ -7,7 +7,7 @@ Aqui compartilho projetos, conquistas e minha evolução na área de tecnologia.
 
 ## 👩‍🎓 Formação
 - 🎓 **Técnico em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General-English-A2.jpg))
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))
   - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)
 - 🚧 **Bacharelado em Tecnologia da Informação** – Univesp Oficial
 - 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano
