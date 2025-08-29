@@ -16,9 +16,7 @@ Sou estudante de **Tecnologia da Informação** e entusiasta em tecnologia, semp
 
 ## 📚 Interesses
 
-| **Desenvolvimento de Software** | **Internet das Coisas (IoT)** | **Qualidade de Software (QA)** |
-| **Inteligência Artificial**     | **Banco de Dados**            | **Análise de Software**        |
-| **Segurança da Informação**     | **Automação**                 |                                |
+| **Desenvolvimento de Software** | **Internet das Coisas (IoT)** | **Qualidade de Software (QA)** | **Inteligência Artificial** | **Banco de Dados** | **Análise de Software** | **Segurança da Informação** | **Automação**|
 
 ---
 
@@ -46,7 +44,7 @@ Sistema baseado em **ESP32** para monitoramento de idosos, com sensores de movim
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 ![CrisleiKeliJenuino's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=default)
 
