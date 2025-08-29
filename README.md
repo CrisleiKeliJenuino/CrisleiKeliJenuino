@@ -1,10 +1,7 @@
-<div align="right">
-  [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
-</div>
+---
+[Português 🇧🇷](README-pt.md)
 
 # ✨ Hi there, I'm Crislei! ✨
-
-...
 
 💻 IT Student | Passionate about Technology & Innovation | Future Software Developer  
 
