@@ -42,7 +42,7 @@ Você pode conferir todos os meus certificados [aqui](certificados/).
 
 ---
 
-## 🧠 Soft Skills
+## 🧠 Habilidades interpessoais - Soft Skills
 Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
 ---
