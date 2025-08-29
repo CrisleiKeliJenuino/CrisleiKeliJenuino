@@ -35,8 +35,7 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 
 ---
 
-## 🚀 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)   
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)   
 
 ---
 
