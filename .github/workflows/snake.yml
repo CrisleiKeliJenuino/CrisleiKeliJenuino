@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: none
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,7 +22,6 @@ jobs:
         with:
           github_user_name: CrisleiKeliJenuino
           outputs: dist/snake.svg
-          background: "0D1117"  # fundo escuro
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
