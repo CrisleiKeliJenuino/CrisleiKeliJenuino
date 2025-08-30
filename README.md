@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" alt="Typing SVG" />
   </a>
@@ -14,8 +10,6 @@
 
 # ✨ Hi there, I'm Crislei! ✨
 
-
-# ✨ Hi there, I'm Crislei! ✨
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
