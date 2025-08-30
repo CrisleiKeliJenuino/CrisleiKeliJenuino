@@ -62,7 +62,6 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
   <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-
 ---
 
 ## 🎓 Certifications
