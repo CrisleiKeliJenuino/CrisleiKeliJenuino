@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Olá!+Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
+       alt="Typing SVG" style="vertical-align: middle;"/>
+</p>
+
 # ✨ Olá, eu sou a Crislei! ✨
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
+
+✨ _“Crie com ousadia, transforme ideias em código e faça de cada desafio uma oportunidade de crescimento.”_ 🚀
 
 ---
 
@@ -26,7 +34,7 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 
 ---
 
-## 🛠️ Technologies  
+## 🛠️ Tecnologias  
 
 <p align="center">
   <!-- Hardware -->
@@ -43,6 +51,20 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
 </p>
 
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=donut&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
 
 ---
 
@@ -51,17 +73,23 @@ Você pode conferir todos os meus certificados [aqui](certificados/).
 
 ---
 
-## 🧠 Habilidades interpessoais - Soft Skills
+## 🧠 Habilidades Interpessoais - Soft Skills
 Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
 ---
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
-[![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
-
----
-
-✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀  
+<p align="center">
+  <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:crislei.jenuino@etec.sp.gov.br">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/crisleikeli">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.duolingo.com/profile/ChryslleyKelly">
+    <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
+  </a>
+</p>
