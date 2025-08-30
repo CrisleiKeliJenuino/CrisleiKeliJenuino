@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" 
+       alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
 
 # ✨ Hi there, I'm Crislei! ✨
-
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
@@ -62,6 +62,8 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
   <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
+
 ---
 
 ## 🎓 Certifications
@@ -75,11 +77,21 @@ Communication | Teamwork | Leadership | Time Management | Problem Solving
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:crislei.jenuino@etec.sp.gov.br)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
-[![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:crislei.jenuino@etec.sp.gov.br">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/crisleikeli">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.duolingo.com/profile/ChryslleyKelly">
+    <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
+  </a>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
+---
 
-✨ _“Turning ideas into code and challenges into growth.”_ 🚀  
+✨ _“Turning ideas into code and challenges into growth.”_ 🚀
