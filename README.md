@@ -1,3 +1,8 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!)](https://git.io/typing-svg)
+
 # ✨ Hi there, I'm Crislei! ✨
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
@@ -50,7 +55,9 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisleiKeliJenuino&theme=github-dark)
-![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)    
+![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)   
+![GitHub Streak](https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true)
+
 
 ---
 
@@ -70,6 +77,8 @@ Communication | Teamwork | Leadership | Time Management | Problem Solving
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
 [![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
 
----
+
+![Snake animation](https://github.com/CrisleiKeliJenuino/CrisleiKeliJenuino/blob/output/github-contribution-grid-snake.svg)
+
 
 ✨ _“Turning ideas into code and challenges into growth.”_ 🚀  
