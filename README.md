@@ -80,6 +80,6 @@ Communication | Teamwork | Leadership | Time Management | Problem Solving
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/crisleikeli)
 [![Duolingo](https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ChryslleyKelly)  
 
-![Snake animation](https://github.com/CrisleiKeliJenuino/CrisleiKeliJenuino/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
 
 ✨ _“Turning ideas into code and challenges into growth.”_ 🚀  
