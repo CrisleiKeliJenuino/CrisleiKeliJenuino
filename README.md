@@ -54,7 +54,6 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 ## 🚀 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=donut&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisleiKeliJenuino&theme=github-dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true)
 
