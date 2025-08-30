@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!)](https://git.io/typing-svg)
 
 # ✨ Hi there, I'm Crislei! ✨
@@ -54,12 +52,11 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 ---
 
 ## 🚀 GitHub Stats
-vou substituir
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=donut&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisleiKeliJenuino&theme=github-dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue)   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true)
-
 
 ---
 
