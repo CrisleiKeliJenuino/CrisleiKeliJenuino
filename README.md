@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=300&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
 # ✨ Hi there, I'm Crislei! ✨
