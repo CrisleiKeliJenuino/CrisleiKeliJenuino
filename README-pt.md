@@ -1,14 +1,7 @@
 <p align="center">
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
-  </span>
-  <span style="display: inline-block; vertical-align: middle; margin-left: 15px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=300&lines=Olá!+Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
-         alt="Typing SVG"/>
-  </span>
-  <span style="display: inline-block; vertical-align: middle; margin-left: 15px;">
-    <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="150"/>
-  </span>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Olá!+Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
+       alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
 
 # ✨ Olá, eu sou a Crislei! ✨
@@ -84,4 +77,11 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
   <a href="https://www.duolingo.com/profile/ChryslleyKelly">
     <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
   </a>
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="400" alt="Snake animation"/>
 </p>
