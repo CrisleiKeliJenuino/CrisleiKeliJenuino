@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman Coding GIF by Pluralsight"/><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!" alt="Typing SVG"/>
-</p>
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman Coding GIF by Pluralsight" style="display:block; margin: 0 auto;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Hello+World!;Turning+ideas+into+code.;Always+learning+new+things!"
+       alt="Typing SVG" style="display:block; margin: 10px auto 0 auto;"/>
+</div>
 
 # ✨ Hi there, I'm Crislei! ✨
 
