@@ -62,7 +62,7 @@
 ---
 
 ## 🎓 Certifications
-### - You can check all my certificates [here](certificados/).  
+###  - You can check all my certificates [here](certificados/).  
 
 ---
 
