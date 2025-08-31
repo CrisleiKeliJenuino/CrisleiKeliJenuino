@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman Coding GIF by Pluralsight"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá+Mundo!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+novas+coisas!" 
        alt="Typing SVG"/>
 </p>
 
