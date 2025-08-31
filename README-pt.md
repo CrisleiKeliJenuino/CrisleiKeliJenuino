@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Olá!+Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Olá!+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas!" 
        alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
 
@@ -79,9 +79,6 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
   </a>
 </p>
 
----
-
-## 🐍 Minhas contribuições
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="400" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="600" alt="Snake animation"/>
 </p>
