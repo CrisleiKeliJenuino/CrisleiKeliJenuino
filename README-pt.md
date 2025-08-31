@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
        alt="Typing SVG" style="display:block; margin: 0 auto; width:500px;"/>
 </div>
-t="Typing SVG" style="display:block; margin: 10px auto 0 auto;"/>
-</div>
 
 # ✨ Olá, eu sou a Crislei! ✨
 
