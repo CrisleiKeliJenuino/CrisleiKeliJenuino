@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá+Mundo!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+novas+coisas!" alt="Typing SVG"/>
 </p>
 
-<h1 align="center">✨ Olá, eu sou a Crislei! ✨</h1>
+# ✨ Olá, eu sou a Crislei! ✨
 
 <p align="center" style="font-size:20px;">
   💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software
@@ -13,35 +13,30 @@
   ✨ “Transformando ideias em código e desafios em crescimento.” 🚀
 </p>
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">👩‍🎓 Formação</h2>
-<ul style="font-size:18px;">
-  <li>🎓 <b>Técnica em Redes de Computadores</b> – Etec Prof. Massuyuki Kawano
-    <ul>
-      <li><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))</li>
-      <li>[Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)</li>
-    </ul>
-  </li>
-  <li>🚧 <b>Bacharelado em Tecnologia da Informação</b> – Univesp (em andamento)</li>
-  <li>🚧 <b>Técnica em Desenvolvimento de Sistemas</b> – Etec Prof. Massuyuki Kawano (em andamento)</li>
-</ul>
+## 👩‍🎓 Formação
+- 🎓 **Técnica em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))  
+  - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)  
+- 🚧 **Bacharelado em Tecnologia da Informação** – Univesp (em andamento)  
+- 🚧 **Técnica em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)  
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">📚 Interesses</h2>
-<p style="font-size:18px;"><b>Bancos de Dados</b> | <b>Desenvolvimento de Software</b> | <b>Inteligência Artificial</b> | <b>QA</b> | <b>Segurança da Informação</b></p>
+## 📚 Interesses
+**Bancos de Dados** | **Desenvolvimento de Software** | **Inteligência Artificial** | **QA** | **Segurança da Informação**
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">💡 Projeto em Destaque</h2>
-<p style="font-size:18px;">
-  <a href="https://github.com/CrisleiKeliJenuino/SmartCare"><b>SmartCare – Monitoramento de Idosos</b></a>: Um sistema usando <b>ESP32</b> para monitoramento de idosos, com sensores e dados em tempo real no <b>Adafruit IO</b>.
-</p>
+## 💡 Projeto em Destaque
+[**SmartCare – Monitoramento de Idosos**](https://github.com/CrisleiKeliJenuino/SmartCare):  
+Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.  
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">🛠️ Tecnologias</h2>
+## 🛠️ Tecnologias  
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
@@ -52,21 +47,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
 </p>
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">🎓 Certificados</h2>
-<p style="font-size:18px;">Você pode conferir todos os meus certificados <a href="certificados/">aqui</a>.</p>
+## 🎓 Certificados
+Você pode conferir todos os meus certificados [aqui](certificados/).  
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">🧠 Habilidades Interpessoais</h2>
-<p style="font-size:18px;">Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas</p>
+## 🧠 Habilidades Interpessoais
+Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
-<hr/>
+---
 
-<h2 style="font-size:26px;">📬 Contato</h2>
-<p align="center" style="font-size:18px;">
-  [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/) | [Instagram](https://instagram.com/crisleikeli) | [Duolingo](https://www.duolingo.com/profile/ChryslleyKelly)
+## 📬 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/crisleikeli">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.duolingo.com/profile/ChryslleyKelly">
+    <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
+  </a>
 </p>
 <p align="center" style="font-size:20px;">
   📧 <b>crislei.jenuino@etec.sp.gov.br</b>
