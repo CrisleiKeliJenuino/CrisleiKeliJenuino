@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=600&lines=Olá!Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas!" 
-       alt="Typing SVG" style="vertical-align: middle;"/>
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 15px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=300&lines=Olá!+Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
+         alt="Typing SVG"/>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 15px;">
+    <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="150"/>
+  </span>
 </p>
 
 # ✨ Olá, eu sou a Crislei! ✨
@@ -50,21 +57,6 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
 </p>
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=donut&theme=dark" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
 
 ---
 
