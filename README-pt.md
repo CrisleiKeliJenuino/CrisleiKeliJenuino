@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF by Pluralsight"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Woman Coding GIF by Pluralsight"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
        alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
