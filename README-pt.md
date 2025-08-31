@@ -1,8 +1,9 @@
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman Coding GIF by Pluralsight" style="display:block; margin: 0 auto;"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman Coding GIF by Pluralsight"/><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=500&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
-       alt="Typing SVG" style="display:block; margin: 0 auto; width:500px;"/>
-</div>
+       alt="Typing SVG"/>
+</p>
+
 
 # ✨ Olá, eu sou a Crislei! ✨
 
