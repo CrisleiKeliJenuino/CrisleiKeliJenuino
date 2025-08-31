@@ -8,28 +8,28 @@
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
-### 💻 IT Student | Passionate about Technology & Innovation | Developing skills to become a Software Developer  
+💻 IT Student | Passionate about Technology & Innovation | Developing skills to become a Software Developer  
 
-### ✨ _“Turning ideas into code and challenges into growth.”_ 🚀
+✨ _“Turning ideas into code and challenges into growth.”_ 🚀
 
 ---
 
 ## 👩‍🎓 Education
-## - 🎓 **Computer Networks Technician** – Etec Prof. Massuyuki Kawano  
-  ### - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))  
-  ### - [Honorable Mention](certificados/Menção%20Honrosa.jpg) | [Outstanding Student](certificados/Aluna%20Destaque.jpg)  
-## - 🚧 **Bachelor’s in Information Technology** – Univesp (in progress)  
-## - 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)  
+- 🎓Computer Networks Technician – Etec Prof. Massuyuki Kawano  
+   - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))  
+   - [Honorable Mention](certificados/Menção%20Honrosa.jpg) | [Outstanding Student](certificados/Aluna%20Destaque.jpg)  
+ - 🚧 **Bachelor’s in Information Technology** – Univesp (in progress)  
+ - 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)  
 
 ---
 
 ## 📚 Interests
-### **Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**  
+**Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**  
 
 ---
 
 ## 💡 Featured Project
-### [**SmartCare – Elderly Monitoring**](https://github.com/CrisleiKeliJenuino/SmartCare): A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
+[**SmartCare – Elderly Monitoring**](https://github.com/CrisleiKeliJenuino/SmartCare): A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
 
 ---
 
@@ -62,12 +62,12 @@
 ---
 
 ## 🎓 Certifications
-###  - You can check all my certificates [here](certificados/).  
+ - You can check all my certificates [here](certificados/).  
 
 ---
 
 ## 🧠 Soft Skills
-### | Communication | Teamwork | Leadership | Time Management | Problem Solving |
+Communication | Teamwork | Leadership | Time Management | Problem Solving |
 
 ---
 
