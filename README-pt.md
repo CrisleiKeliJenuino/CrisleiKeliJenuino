@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=600&lines=Olá!+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=600&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas!" 
        alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
 
@@ -10,7 +10,7 @@
 
 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
 
-✨ _“Crie com ousadia, transforme ideias em código e faça de cada desafio uma oportunidade de crescimento.”_ 🚀
+✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
 ---
 
@@ -79,6 +79,4 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg" width="600" alt="Snake animation"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
