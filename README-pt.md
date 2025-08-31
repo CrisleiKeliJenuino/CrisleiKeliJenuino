@@ -58,7 +58,7 @@ Você pode conferir todos os meus certificados [aqui](certificados/).
 
 ---
 
-## 🧠 Habilidades interpessoais - Soft Skills
+## 🧠 Habilidades interpessoais
 Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
 ---
@@ -78,3 +78,4 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
     <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
   </a>
 </p>
+
