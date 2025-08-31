@@ -86,7 +86,7 @@
   </a>
 </p>
 <p align="center">
-  📧 Email: <b><span style="font-size:20px;">crislei.jenuino@etec.sp.gov.br</span></b>
+  📧 Email: <b><span style="font-size:30px;">crislei.jenuino@etec.sp.gov.br</span></b>
 </p>
 
 
