@@ -64,12 +64,10 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
 ---
 
 ## 📬 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:crislei.jenuino@etec.sp.gov.br">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/crisleikeli">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -79,3 +77,6 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
   </a>
 </p>
 
+<p align="center">
+  📧 Email: <b>crislei.jenuino@etec.sp.gov.br</b>
+</p>
