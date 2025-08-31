@@ -24,12 +24,12 @@
 ---
 
 ## 📚 Interests
-**Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**  
+Databases | Software Development | Artificial Intelligence | QA | Information Security 
 
 ---
 
 ## 💡 Featured Project
-[**SmartCare – Elderly Monitoring**](https://github.com/CrisleiKeliJenuino/SmartCare): A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
+[SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare): A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
 
 ---
 
