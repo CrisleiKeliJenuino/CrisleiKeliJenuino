@@ -1,17 +1,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF by Pluralsight"/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá+Mundo!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+novas+coisas!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turning+ideas+into+code.;&nbsp;&nbsp;&nbsp;&nbsp;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
 # ✨ Olá, eu sou a Crislei! ✨
 
-<p align="center" style="font-size:20px;">
-  💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software
-</p>
+[![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-<p align="center" style="font-size:18px; font-style:italic;">
-  ✨ “Transformando ideias em código e desafios em crescimento.” 🚀
-</p>
+### 💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
+
+### ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
 ---
 
@@ -25,7 +23,7 @@
 ---
 
 ## 📚 Interesses
-**Bancos de Dados** | **Desenvolvimento de Software** | **Inteligência Artificial** | **QA** | **Segurança da Informação**
+**Bancos de Dados** | **Desenvolvimento de Software** | **Inteligência Artificial** | **QA** | **Segurança da Informação**  
 
 ---
 
@@ -38,13 +36,27 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 ## 🛠️ Tecnologias  
 
 <p align="center">
+  <!-- Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="50" alt="ESP32"/>
+
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+</p>
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -54,12 +66,13 @@ Você pode conferir todos os meus certificados [aqui](certificados/).
 
 ---
 
-## 🧠 Habilidades Interpessoais
+## 🧠 Habilidades interpessoais - Soft Skills
 Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
 ---
 
 ## 📬 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -71,6 +84,7 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
     <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
   </a>
 </p>
-<p align="center" style="font-size:20px;">
-  📧 <b>crislei.jenuino@etec.sp.gov.br</b>
+
+<p align="center" style="font-size:18px; margin-top:10px;">
+  📧 Email: <b>crislei.jenuino@etec.sp.gov.br</b>
 </p>
