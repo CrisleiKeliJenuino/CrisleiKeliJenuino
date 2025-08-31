@@ -8,7 +8,7 @@
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Futura Desenvolvedora de Software  
+💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Desenvolvendo habilidades para me tornar Desenvolvedora de Software 
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
