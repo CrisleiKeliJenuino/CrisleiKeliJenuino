@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="vertical-align: middle;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=600&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F779&width=400&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" 
        alt="Typing SVG" style="vertical-align: middle;"/>
 </p>
 
@@ -8,7 +8,7 @@
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Desenvolvendo habilidades para me tornar Desenvolvedora de Software 
+💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Desenvolvendo habilidades para me tornar Desenvolvedora de Software  
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
@@ -58,7 +58,7 @@ Você pode conferir todos os meus certificados [aqui](certificados/).
 
 ---
 
-## 🧠 Habilidades Interpessoais - Soft Skills
+## 🧠 Habilidades interpessoais - Soft Skills
 Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
 
 ---
@@ -78,5 +78,3 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
     <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
   </a>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/CrisleiKeliJenuino/CrisleiKeliJenuino/output/snake.svg)
