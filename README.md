@@ -24,7 +24,7 @@
 ---
 
 # 📚 Interests
-## **Databases** | **Software Development** | **Artificial Intelligence** | **QA** | ## **Information Security**  
+## **Databases** | **Software Development** | **Artificial Intelligence** | **QA** | **Information Security**  
 
 ---
 
