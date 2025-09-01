@@ -8,7 +8,7 @@
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
-💻 IT Student | Passionate about Technology & Innovation | Developing skills to become a Software Developer  
+💻 IT Student | Passionate about Technology & Innovation | Continuously developing my skills to pursue a career as a Software Developer. 
 
 ✨ _“Turning ideas into code and challenges into growth.”_ 🚀
 
