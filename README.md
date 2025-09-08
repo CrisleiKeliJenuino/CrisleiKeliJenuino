@@ -15,7 +15,7 @@
 ---
 
 ## 👩‍🎓 Education
-- 🎓Computer Networks Technician – Etec Prof. Massuyuki Kawano  
+- 🎓Computer Networks Technician – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))  
    - [Honorable Mention](certificados/Menção%20Honrosa.jpg) | [Outstanding Student](certificados/Aluna%20Destaque.jpg)  
  - 🚧 **Bachelor’s in Information Technology** – Univesp (in progress)  
