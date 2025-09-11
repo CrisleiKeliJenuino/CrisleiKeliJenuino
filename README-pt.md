@@ -8,7 +8,8 @@
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI | Entusiasta Full Stack & IoT | Explorando AI, QA, Segurança & Cloud | Desenvolvendo habilidades para me tornar Desenvolvedora de Software.
+💻 Estudante de TI, Full Stack e IoT, explorando AI, QA, Segurança e Cloud.
+
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 

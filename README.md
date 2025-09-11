@@ -8,7 +8,8 @@
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
-💻 IT Student | Full Stack & IoT Enthusiast | Exploring AI, QA, Security & Cloud | Developing skills to become a Software Developer.
+💻 IT student, Full Stack and IoT, exploring AI, QA, Security, and Cloud.
+
 
 ✨ _“Turning ideas into code and challenges into growth.”_ 🚀
 
