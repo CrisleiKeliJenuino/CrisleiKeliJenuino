@@ -58,15 +58,6 @@ Sistema com **ESP32** para monitoramento de idosos, com sensores e dados em temp
 
 ---
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" height="400"/>
-  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🎓 Certificados
 Confira todos os meus certificados [aqui](certificados/).  
 
@@ -92,4 +83,5 @@ Confira todos os meus certificados [aqui](certificados/).
 </p>
 
 <p align="center">
-  📧 Email: <b><a href="mailto:crislei.
+  📧 Email: <b><a href="mailto:crislei.jenuino@etec.sp.gov.br">crislei.jenuino@etec.sp.gov.br</a></b>
+</p>
