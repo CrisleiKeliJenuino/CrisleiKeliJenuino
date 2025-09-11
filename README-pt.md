@@ -7,7 +7,7 @@
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI | Apaixonada por Tecnologia & Inovação | Desenvolvendo continuamente minhas habilidades para conquistar minha carreira como Desenvolvedora de Software. 
+💻 Estudante de TI | Entusiasta de Full Stack & IoT | Explorando IA, QA, Segurança & Cloud | Desenvolvendo habilidades para atuar como Desenvolvedora de Software.
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
@@ -23,7 +23,7 @@
 ---
 
 ## 📚 Interesses
-Bancos de Dados | Desenvolvimento de Software | IA | QA | Segurança da Informação  
+Desenvolvimento de Software | IoT | IA | QA | Segurança da Informação | Computação em Nuvem  
 
 ---
 
