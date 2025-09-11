@@ -8,7 +8,7 @@
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI desenvolvendo habilidades em Full Stack, IoT, Linux e AI
+💻 Estudante de TI desenvolvendo habilidades em Full Stack, IoT, Linux e IA
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
