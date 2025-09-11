@@ -23,7 +23,13 @@
 ---
 
 ## 📚 Interests
-Software Development | IoT | AI | QA | Information Security | Databases | Cloud Computing
+
+![Software Development](https://img.shields.io/badge/Software_Development-blue?style=for-the-badge&logo=devicons&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Information_Security-red?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightblue?style=for-the-badge)
 
 ---
 
