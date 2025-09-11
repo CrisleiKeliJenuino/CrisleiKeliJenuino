@@ -88,10 +88,6 @@ Check all my certificates [here](certificados/).
   <a href="https://instagram.com/crisleikeli">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.duolingo.com/profile/ChryslleyKelly">
-    <img src="https://img.shields.io/badge/-Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white" alt="Duolingo"/>
-  </a>
-</p>
 
 <p align="center">
   📧 Email: <b><a href="mailto:crislei.jenuino@etec.sp.gov.br">crislei.jenuino@etec.sp.gov.br</a></b>
