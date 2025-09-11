@@ -1,34 +1,41 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF by Pluralsight"/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá+Mundo!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+coisas+novas!" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Mulher Programando GIF by Pluralsight"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=Olá+Mundo!;Transformando+ideias+em+código.;Sempre+aprendendo+novas+coisas!" alt="Typing SVG"/>
 </p>
 
-# ✨ Olá, eu sou a Crislei! ✨
+# ✨ Olá, eu sou Crislei! ✨
 
 [![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
 
-💻 Estudante de TI | Entusiasta de Full Stack & IoT | Explorando IA, QA, Segurança & Cloud | Desenvolvendo habilidades para atuar como Desenvolvedora de Software.
+💻 Estudante de TI | Entusiasta Full Stack & IoT | Explorando AI, QA, Segurança & Cloud | Desenvolvendo habilidades para me tornar Desenvolvedora de Software.
 
 ✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
 
 ---
 
 ## 👩‍🎓 Formação
- - 🎓 **Técnica em Redes de Computadores** – Etec Prof. Massuyuki Kawano  
+- 🎓 **Técnico em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))  
    - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)  
- - 🚧 **Bacharelado em Tecnologia da Informação** – Univesp (em andamento)  
- - 🚧 **Técnica em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)  
+- 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
+- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)  
 
 ---
 
 ## 📚 Interesses
-Desenvolvimento de Software | IoT | IA | QA | Segurança da Informação | Computação em Nuvem  
+
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_software-blue?style=for-the-badge&logo=devicons&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
+![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-red?style=for-the-badge)
+![Computação em Nuvem](https://img.shields.io/badge/Computação_em_Nuvem-lightblue?style=for-the-badge)
 
 ---
 
 ## 💡 Projeto em Destaque
-[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare): Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.  
+[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)  
+Sistema com **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.  
 
 ---
 
@@ -51,13 +58,22 @@ Desenvolvimento de Software | IoT | IA | QA | Segurança da Informação | Compu
 
 ---
 
-## 🎓 Certificados
- - Você pode conferir todos os meus certificados [aqui](certificados/).  
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" height="400"/>
+  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🧠 Habilidades interpessoais
-Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução de Problemas  
+## 🎓 Certificados
+Confira todos os meus certificados [aqui](certificados/).  
+
+---
+
+## 🧠 Soft Skills
+🗣️ Comunicação | 🤝 Trabalho em Equipe | 🧩 Resolução de Problemas | ⏱️ Gestão do Tempo | 👩‍💼 Liderança
 
 ---
 
@@ -75,6 +91,5 @@ Comunicação | Trabalho em Equipe | Liderança | Gestão do Tempo | Resolução
   </a>
 </p>
 
-<p align="center" style="font-size:20px; margin-top:10px;">
-  📧 Email: <b>crislei.jenuino@etec.sp.gov.br</b>
-</p>
+<p align="center">
+  📧 Email: <b><a href="mailto:crislei.
