@@ -27,10 +27,10 @@
 
 ![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_software-blue?style=for-the-badge&logo=devicons&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
-![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 ![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-red?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
 ![Computação em Nuvem](https://img.shields.io/badge/Computação_em_Nuvem-lightblue?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 
 ---
 
