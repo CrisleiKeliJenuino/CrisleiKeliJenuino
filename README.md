@@ -60,7 +60,7 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="50" alt="GitHub"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" width="50" alt="GitHub"/>
 </p>
 
 ---
