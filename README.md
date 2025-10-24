@@ -18,18 +18,12 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" width="395"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" width="400"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" width="300"/>
-  
-  <!-- Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=CrisleiKeliJenuino&theme=dark&column=5" width="300"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" width="400"/>
 </p>
 
 ---
