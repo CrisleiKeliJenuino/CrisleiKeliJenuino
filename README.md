@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" width="395"/>
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" width="320"/>
