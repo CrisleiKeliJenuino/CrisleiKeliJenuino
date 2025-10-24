@@ -28,6 +28,16 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Followers&style=flat-square&color=ff77aa" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?style=flat-square&color=ff77aa" alt="Stars" />
+</p>
+
+---
+
 ## 👩‍🎓 Education
 - 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/General%20English%20-%20A2.jpg))  
