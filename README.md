@@ -26,10 +26,6 @@
   </span>
 </p>
 
----
-
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Followers&style=flat-square&color=ff77aa" alt="Followers" />
