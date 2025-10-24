@@ -34,7 +34,7 @@
   <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" width="300"/>
   
   <!-- Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=CrisleiKeliJenuino&theme=dark&column=5" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CrisleiKeliJenuino&theme=dark&column=5" width="300"/>
 </p>
 
 ---
