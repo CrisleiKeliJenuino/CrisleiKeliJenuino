@@ -18,7 +18,7 @@
 
 <p align="center">
   <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow:0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=radical" width="380"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=radical" width="395"/>
   </span>
 
   <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow:0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
