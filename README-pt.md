@@ -14,6 +14,26 @@
 
 ---
 
+## 🚀 Estatísticas & Atividade no GitHub
+
+<p align="center">
+  <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow: 0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=radical" width="380"/>
+  </span>
+
+  <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow: 0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=radical" width="300"/>
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square" alt="Visualizações de Perfil" />
+  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?style=flat-square&color=ff77aa" alt="Estrelas" />
+</p>
+
+---
+
 ## 👩‍🎓 Formação
 - 🎓 **Técnico em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
    - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))  
