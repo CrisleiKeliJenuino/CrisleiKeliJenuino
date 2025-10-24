@@ -23,8 +23,8 @@
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" width="300"/>
   
-  <!-- Gráfico de atividade -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=CrisleiKeliJenuino&theme=github&width=300&height=150" width="300"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" width="300"/>
 </p>
 
 ---
