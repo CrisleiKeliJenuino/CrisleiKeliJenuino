@@ -18,13 +18,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" width="300"/>
   
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" width="300"/>
   
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=CrisleiKeliJenuino&theme=dark&hide_border=true" height="200"/>
+  <!-- Gráfico de atividade -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=CrisleiKeliJenuino&theme=github&width=300&height=150" width="300"/>
 </p>
 
 ---
