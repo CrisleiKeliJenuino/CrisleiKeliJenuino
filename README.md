@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=dark" height="150"/>
   
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=dark" height="200"/>
