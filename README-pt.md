@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Mulher Programando GIF by Pluralsight"/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá+Mundo!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+novas+coisas!" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF by Pluralsight"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+coisas+novas!" alt="Typing SVG"/>
 </p>
 
 
-# ✨ Olá, eu sou Crislei! ✨
+# ✨ Olá, eu sou a Crislei! ✨
 
-[![English](https://img.shields.io/badge/English-00529b?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-0078D4?style=for-the-badge)](README.md)
 
 💻 Estudante de TI desenvolvendo habilidades em Full Stack, IoT, Linux e IA
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Estatísticas & Atividade no GitHub
+## 🚀 Estatísticas e Atividade no GitHub
 
 <p align="center">
   <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow:0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
@@ -27,40 +27,52 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
-  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Estrelas&style=flat-square&color=ff77aa" alt="Estrelas" />
+  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square&label=Visualizações+no+Perfil" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Stars&style=flat-square&color=ff77aa" alt="Stars" />
 </p>
 
 ---
 
-## 👩‍🎓 Formação
-- 🎓 **Técnico em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-   - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))  
-   - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)  
-- 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
-- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)  
+## ✨ Sobre Mim
+
+Sou uma entusiasta de tecnologia e inovação, esposa e mãe de três. Encontro na minha família a inspiração para construir soluções que tenham um impacto positivo real na vida das pessoas (como o meu projeto [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare)).
+
+Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescimento, sempre focada em consolidar minha carreira em TI.
+
+---
+
+## 👩‍🎓 Formação Acadêmica
+
+- 🎓 **Técnica em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Intercâmbio na Irlanda](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
+  - 🏅 **[Menção Honrosa](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
+  - 🌟 **[Aluna Destaque](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
+
+- 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)
+
+- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)
 
 ---
 
 ## 📚 Interesses
 
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_software-blue?style=for-the-badge&logo=devicons&logoColor=white)
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_de_Software-blue?style=for-the-badge&logo=devicons&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
 ![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-red?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-purple?style=for-the-badge)
 ![Computação em Nuvem](https://img.shields.io/badge/Computação_em_Nuvem-lightblue?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 
 ---
 
 ## 💡 Projeto em Destaque
-[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)  
-Sistema com **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.  
+[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
+Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.
 
 ---
 
-## 🛠️ Technologies  
+## 🛠️ Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
@@ -76,13 +88,13 @@ Sistema com **ESP32** para monitoramento de idosos, com sensores e dados em temp
 
 ---
 
-## 🎓 Certificados
-Confira todos os meus certificados [aqui](certificados/).  
+## 🎓 Certificações
+Confira todos os meus certificados [aqui](https://drive.google.com/drive/folders/1xziCuoIzkomlMtxSooMkjr3KXa8Try5W?usp=drive_link).
 
 ---
 
 ## 🧠 Soft Skills
-🗣️ Comunicação | 🤝 Trabalho em Equipe | 🧩 Resolução de Problemas | ⏱️ Gestão do Tempo | 👩‍💼 Liderança
+🗣️ Comunicação | 🤝 Trabalho em Equipe | 🧩 Resolução de Problemas | ⏱️ Gestão de Tempo | 👩‍💼 Liderança
 
 ---
 
