@@ -34,12 +34,12 @@
 
 ---
 
-## 👩‍🎓 Education
-- 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-   - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Exchange in Ireland ([English Certificate](certificados/ENGLISH LANGUAGE COURSE.pdf))  
-   - [Honorable Mention](certificados/MNEÇÃO HONROSA - REDE DE COMPUTADORES.pdf) | [Outstanding Student](certificados/ALUNA DESTAQUE - REDE DE COMPUTADORES.pdf)  
-- 🚧 **Bachelor’s in Information Technology** – [Univesp - in progress](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
-- 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)  
+## 👩‍🎓 Formação
+- 🎓 **Técnico em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
+   - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> Intercâmbio na Irlanda ([Certificado de Inglês](certificados/General%20English%20-%20A2.jpg))  
+   - [Menção Honrosa](certificados/Menção%20Honrosa.jpg) | [Aluna Destaque](certificados/Aluna%20Destaque.jpg)  
+- 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
+- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)  
 
 ---
 
