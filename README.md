@@ -51,7 +51,7 @@ I am passionate about continuous learning and transforming challenges into growt
 
 - 🚧 **Bachelor’s in Information Technology** – [Univesp - in progress](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
 
-- 🚧 **Systems Development Technician** – Etec Prof. Massuyuki Kawano (in progress)
+- 🚧 **Systems Development Technician** – [ETEC Prof. Massuyuki Kawano - in progress](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)
 
 ---
 
