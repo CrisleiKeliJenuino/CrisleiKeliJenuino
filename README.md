@@ -37,9 +37,9 @@
 ## 👩‍🎓 Education  
 
 - 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **Exchange in Ireland** – certificate available in the 'certificados' folder  
-  - Honorable Mention – certificate available in the 'certificados' folder  
-  - Outstanding Student – certificate available in the 'certificados' folder  
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **Exchange in Ireland**  
+  - 🏅 **Honorable Mention**  
+  - 🌟 **Outstanding Student**  
 
 - 🚧 **Bachelor’s in Information Technology** – [Univesp - in progress](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
 
