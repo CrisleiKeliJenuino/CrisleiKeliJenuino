@@ -45,9 +45,9 @@ I am passionate about continuous learning and transforming challenges into growt
 ## 👩‍🎓 Education  
 
 - 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **Exchange in Ireland**  
-  - 🏅 **Honorable Mention**  
-  - 🌟 **Outstanding Student**  
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Exchange in Ireland](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
+  - 🏅 **[Honorable Mention](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
+  - 🌟 **[Outstanding Student](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)** 
 
 - 🚧 **Bachelor’s in Information Technology** – [Univesp - in progress](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
 
