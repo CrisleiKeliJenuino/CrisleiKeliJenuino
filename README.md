@@ -89,7 +89,7 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time data
 ---
 
 ## 🎓 Certifications
-Check all my certificates [here](certificados/).  
+Check all my certificates [here](https://drive.google.com/drive/folders/1xziCuoIzkomlMtxSooMkjr3KXa8Try5W?usp=drive_link).
 
 ---
 
