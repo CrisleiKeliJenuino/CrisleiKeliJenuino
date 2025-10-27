@@ -51,7 +51,7 @@ Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescime
 
 - 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)
 
-- 🚧 **Técnico em Desenvolvimento de Sistemas** – Etec Prof. Massuyuki Kawano (em andamento)
+- 🚧 **Técnico em Desenvolvimento de Sistemas** – [ETEC Prof. Massuyuki Kawano - em andamento](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)
 
 ---
 
