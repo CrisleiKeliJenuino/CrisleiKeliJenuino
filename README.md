@@ -37,8 +37,9 @@
 ## 👩‍🎓 Education  
 
 - 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **Exchange in Ireland** – [English Certificate (PDF)](certificados/ENGLISH_LANGUAGE_COURSE.pdf)  
-  - [🏅 Honorable Mention (PDF)](certificados/MENCAO_HONROSA_REDE_DE_COMPUTADORES.pdf) | [🌟 Outstanding Student (PDF)](certificados/ALUNA_DESTAQUE_REDE_DE_COMPUTADORES.pdf)
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **Exchange in Ireland** – [English Certificate (PDF)](certificados/ENGLISH%20LANGUAGE%20COURSE.pdf)  
+  - [🏅 Honorable Mention (PDF)](https://github.com/CrisleiKeliJenuino/CrisleiKeliJenuino/raw/main/certificados/REDE%20DE%20COMPUTADORES/MEN%C3%87%C3%83O%20HONROSA%20-%20REDE%20DE%20COMPUTADORES.pdf)  
+  - [🌟 Outstanding Student (PDF)](https://github.com/CrisleiKeliJenuino/CrisleiKeliJenuino/raw/main/certificados/REDE%20DE%20COMPUTADORES/ALUNA%20DESTAQUE%20-%20REDE%20DE%20COMPUTADORES.pdf)
 
 - 🚧 **Bachelor’s in Information Technology** – [Univesp - in progress](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)  
 
