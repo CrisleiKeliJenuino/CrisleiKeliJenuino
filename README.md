@@ -34,6 +34,14 @@
 
 ---
 
+## ✨ About Me
+
+I'm a technology and innovation enthusiast, wife, and mother of three. I find inspiration in my family to build solutions that have a real, positive impact on people's lives (like my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project).
+
+I am passionate about continuous learning and transforming challenges into growth, always focused on consolidating my career in IT.
+
+---
+
 ## 👩‍🎓 Education  
 
 - 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
