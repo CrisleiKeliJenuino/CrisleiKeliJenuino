@@ -76,8 +76,6 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 
 ### 🖥️ Desenvolvimento (Back-End & Software)
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
 </p>
 
