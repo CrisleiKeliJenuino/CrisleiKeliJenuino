@@ -68,7 +68,7 @@ I am passionate about continuous learning and transforming challenges into growt
 
 ## 💡 Featured Project
 [SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare)  
-A system using **ESP32** for elderly monitoring, with sensors and real-time data on **Adafruit IO**.  
+A system using **ESP32** for elderly monitoring, with sensors and real-time.  
 
 ---
 
