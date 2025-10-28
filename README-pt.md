@@ -68,7 +68,7 @@ Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescime
 
 ## 💡 Projeto em Destaque
 [SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
-Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real no **Adafruit IO**.
+Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real.
 
 ---
 
