@@ -74,22 +74,12 @@ A system using **ESP32** for elderly monitoring, with sensors and real-time.
 
 ## 🛠️ Technologies and Tools
 
-### 🖥️ Development (Back-End & Software)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-</p>
-
 ### 🌐 Development (Front-End Web)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
 </p>
-
-### 🗃️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  </p>
 
 ### 💡 IoT & Hardware
 <p>
