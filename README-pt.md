@@ -101,11 +101,6 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 
 ---
 
-## 🎓 Certificações
-Confira todos os meus certificados [aqui](https://drive.google.com/drive/folders/1xziCuoIzkomlMtxSooMkjr3KXa8Try5W?usp=drive_link).
-
----
-
 ## 🧠 Soft Skills
 🗣️ Comunicação | 🤝 Trabalho em Equipe | 🧩 Resolução de Problemas | ⏱️ Gestão de Tempo | 👩‍💼 Liderança
 
