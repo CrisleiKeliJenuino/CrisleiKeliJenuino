@@ -95,6 +95,6 @@ Sistema desenvolvido com **ESP32** para monitoramento de idosos, integrando sens
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square&label=Visualizações+no+Perfil" alt="Visualizações no Perfil" />
   <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Stars&style=flat-square&color=ff77aa" alt="Estrelas" />
+  <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Estrelas&style=flat-square&color=ff77aa" alt="Estrelas" />
 </p>
 
