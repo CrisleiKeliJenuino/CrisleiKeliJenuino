@@ -42,7 +42,7 @@ Encontro na minha família a inspiração para desenvolver soluções que gerem 
 
 Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescimento, com foco no desenvolvimento de software, fundamentos de dados e na consolidação da minha carreira na área de Tecnologia da Informação.
 
-Atualmente, estou aprendendo Dados com Python, explorando análise, organização e visualização de dados, sempre com curiosidade e vontade de evoluir a cada aula.
+Atualmente, estou aprendendo Dados com Python, explorando análise, organização e visualização de dados, sempre com curiosidade e vontade de evoluir a cada nova aula.
 
 ---
 
