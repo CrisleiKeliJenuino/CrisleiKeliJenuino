@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turning+ideas+into+code.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
-# ✨ Hi, I'm Crislei! ✨
+# ✨ Hi, I’m Crislei! ✨
 
-[![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
+[![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README-pt.md)
 
-💻 IT student developing skills in Software Development, Data, IoT, Linux, and AI
+💻 IT student developing skills in **Software Development, Data, IoT, Linux, and Artificial Intelligence**
 
 ✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
@@ -35,26 +35,29 @@
 
 ## ✨ About Me
 
-I'm a technology and innovation enthusiast, a wife, and a mother of three.  
+I am a technology and innovation enthusiast, a wife, and a mother of three.  
 
-I find inspiration in my family to develop solutions that create a real and positive impact on people's lives, such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
+I find inspiration in my family to develop solutions that create a real and positive impact on people’s lives, such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
 
-I am passionate about continuous learning and turning challenges into growth, with a focus on software development, data fundamentals, and building a solid career in Information Technology.
+I am passionate about continuous learning and turning challenges into growth, with a strong focus on software development, data fundamentals, and building a solid career in Information Technology.
 
-Currently, I am learning Data with Python, exploring data analysis, organization, and visualization, always with curiosity and a strong desire to grow with each new class.
+Currently, I am learning **Data with Python**, exploring data analysis, organization, and visualization, always driven by curiosity and the desire to improve with every new class.
 
 ---
 
 ## 👩‍🎓 Education
 
-- 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano – Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Cultural Exchange in Ireland](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
+- 🎓 **Technical Degree in Computer Networks** –  
+  [ETEC Prof. Massuyuki Kawano – Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Cultural Exchange Program in Ireland](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
   - 🏅 **[Honorable Mention](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
-  - 🌟 **[Outstanding Student](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
+  - 🌟 **[Outstanding Student Award](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
 
-- 🎓 **Bachelor’s in Information Technology** – [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*
+- 🎓 **Bachelor’s Degree in Information Technology** –  
+  [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*
 
-- 🎓 **Systems Development Technician** – [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(in progress)*
+- 🎓 **Technical Degree in Systems Development** –  
+  [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(in progress)*
 
 ---
 
@@ -71,12 +74,31 @@ Currently, I am learning Data with Python, exploring data analysis, organization
 
 ## 💡 Featured Project
 
-[SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare)  
-System developed with **ESP32** for elderly monitoring, integrating sensors and real-time data collection.
+[SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)  
+A system developed with **ESP32** for elderly monitoring, integrating sensors and real-time data collection.
 
 ---
 
-## 🛠️ Technologies and Tools
+## 📊 Languages & Learning Progress
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=CrisleiKeliJenuino&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🚀 Currently Learning & Practicing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Actively_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Pandas_&_NumPy-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Development-HTML_|_CSS_|_JavaScript-0A66C2?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### 🌐 Web Development (Front-End)
 <p>
