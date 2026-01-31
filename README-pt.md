@@ -8,9 +8,9 @@
 
 [![English](https://img.shields.io/badge/English-0078D4?style=for-the-badge)](README.md)
 
-💻 Estudante de TI desenvolvendo habilidades em Full Stack, IoT, Linux e IA
+💻 Estudante de TI desenvolvendo habilidades em Desenvolvimento de Software, Dados, IoT, Linux e IA
 
-✨ _“Transformando ideias em código e desafios em crescimento.”_ 🚀
+✨ _“Transformando ideias em código e desafios em crescimento contínuo.”_ 🚀
 
 ---
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow:0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&count_private=true&theme=radical" width="395"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CrisleiKeliJenuino&show_icons=true&theme=radical" width="395"/>
   </span>
 
   <span style="display:inline-block; border:2px solid #ff77aa; border-radius:15px; box-shadow:0 4px 8px rgba(255,119,170,0.4); margin:10px; padding:10px;">
@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square&label=Visualizações+no+Perfil" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=CrisleiKeliJenuino&color=ff77aa&style=flat-square&label=Visualizações+no+Perfil" alt="Visualizações no Perfil" />
+  <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Seguidores&style=flat-square&color=ff77aa" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Stars&style=flat-square&color=ff77aa" alt="Stars" />
 </p>
 
@@ -36,61 +36,61 @@
 
 ## ✨ Sobre Mim
 
-Sou uma entusiasta de tecnologia e inovação, esposa e mãe de três. Encontro na minha família a inspiração para construir soluções que tenham um impacto positivo real na vida das pessoas (como o meu projeto [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare)).
+Sou uma entusiasta de tecnologia e inovação, esposa e mãe de três filhos.  
+Encontro na minha família a inspiração para desenvolver soluções que gerem um impacto positivo e real na vida das pessoas, como o meu projeto [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare).
 
-Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescimento, sempre focada em consolidar minha carreira em TI.
+Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescimento, com foco no desenvolvimento de software, fundamentos de dados e na consolidação da minha carreira na área de Tecnologia da Informação.
 
 ---
 
 ## 👩‍🎓 Formação Acadêmica
 
-- 🎓 **Técnica em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)
-  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Intercâmbio na Irlanda](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
+- 🎓 **Técnica em Redes de Computadores** – [ETEC Prof. Massuyuki Kawano – Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Intercâmbio Cultural na Irlanda](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
   - 🏅 **[Menção Honrosa](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
   - 🌟 **[Aluna Destaque](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
 
-- 🚧 **Bacharelado em Tecnologia da Informação** – [Univesp - em andamento](https://www.linkedin.com/school/univespoficial/posts/?feedView=all)
+- 🎓 **Bacharelado em Tecnologia da Informação** – [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(em andamento)*
 
-- 🚧 **Técnico em Desenvolvimento de Sistemas** – [ETEC Prof. Massuyuki Kawano - em andamento](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)
+- 🎓 **Técnico em Desenvolvimento de Sistemas** – [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(em andamento)*
 
 ---
 
 ## 📚 Interesses
 
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_de_Software-blue?style=for-the-badge&logo=devicons&logoColor=white)
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_de_Software-blue?style=for-the-badge)
+![Dados](https://img.shields.io/badge/Dados-purple?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
 ![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-red?style=for-the-badge)
-![IA](https://img.shields.io/badge/IA-purple?style=for-the-badge)
-![Computação em Nuvem](https://img.shields.io/badge/Computação_em_Nuvem-lightblue?style=for-the-badge)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-violet?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 
 ---
 
 ## 💡 Projeto em Destaque
-[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
-Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados em tempo real.
+
+[SmartCare – Monitoramento de Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)  
+Sistema desenvolvido com **ESP32** para monitoramento de idosos, integrando sensores e coleta de dados em tempo real.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🌐 Desenvolvimento (Front-End Web)
+### 🌐 Desenvolvimento Web (Front-End)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
 </p>
 
-### 💡 IoT & Hardware
+### 💡 IoT & Sistemas Embarcados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="50" alt="ESP32"/>
 </p>
 
 ### 📡 Redes de Computadores
-<p>
-  TCP/IP | Modelo OSI | Cabeamento Estruturado | Configuração de Roteadores | Wireshark
-</p>
+• TCP/IP • Modelo OSI • Cabeamento Estruturado • Configuração de Roteadores • Wireshark
 
 ### ⚙️ Ferramentas & Plataformas
 <p>
@@ -102,7 +102,8 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
 ---
 
 ## 🧠 Soft Skills
-🗣️ Comunicação | 🤝 Trabalho em Equipe | 🧩 Resolução de Problemas | ⏱️ Gestão de Tempo | 👩‍💼 Liderança
+
+🗣️ Comunicação • 🤝 Trabalho em Equipe • 🧩 Resolução de Problemas • ⏱️ Gestão do Tempo • 👩‍💼 Liderança
 
 ---
 
@@ -115,7 +116,9 @@ Um sistema usando **ESP32** para monitoramento de idosos, com sensores e dados e
   <a href="https://instagram.com/crisleikeli">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
 
 <p align="center">
   📧 Email: <b><a href="mailto:crislei.jenuino@etec.sp.gov.br">crislei.jenuino@etec.sp.gov.br</a></b>
 </p>
+
