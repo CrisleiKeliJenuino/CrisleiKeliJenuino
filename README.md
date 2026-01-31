@@ -59,15 +59,6 @@ A system developed with **ESP32** for elderly monitoring, integrating sensors an
 
 ---
 
-## 📊 Languages & Learning Progress
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiKeliJenuino&layout=compact&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=CrisleiKeliJenuino&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🚀 Currently Learning & Practicing
 
 <p align="center">
