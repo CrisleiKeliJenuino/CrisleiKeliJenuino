@@ -84,6 +84,13 @@ Sistema desenvolvido com **ESP32** para monitoramento de idosos, integrando sens
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
 </p>
 
+### 📊 Python & Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+</p>
+
 ### 💡 IoT & Sistemas Embarcados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
