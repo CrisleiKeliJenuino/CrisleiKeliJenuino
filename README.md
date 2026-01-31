@@ -7,7 +7,7 @@
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
-💻 IT student focused on **Software Development, IoT solutions, Linux, and AI fundamentals**
+💻 IT student focused on Software Development, Data fundamentals, IoT solutions, Linux, and AI fundamentals
 
 ✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
@@ -37,8 +37,8 @@
 
 I'm a technology and innovation enthusiast, a wife, and a mother of three.  
 I find inspiration in my family to build solutions that create a real and positive impact on people's lives — such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
+I am passionate about continuous learning and transforming challenges into growth, with a strong interest in software development, data fundamentals, and building solutions that generate meaningful insights and real-world impact.
 
-I am passionate about continuous learning and transforming challenges into growth, with a strong focus on building a solid career in Information Technology.
 
 ---
 
@@ -58,10 +58,10 @@ I am passionate about continuous learning and transforming challenges into growt
 ## 📚 Interests
 
 ![Software Development](https://img.shields.io/badge/Software_Development-blue?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-purple?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
 ![Information Security](https://img.shields.io/badge/Information_Security-red?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightblue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-violet?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 
 ---
