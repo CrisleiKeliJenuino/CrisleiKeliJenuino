@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turning+ideas+into+code.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
-# ✨ Hi there, I'm Crislei! ✨
+# ✨ Hi, I'm Crislei! ✨
 
 [![Português](https://img.shields.io/badge/Português-00529b?style=for-the-badge)](README-pt.md)
 
-💻 IT student focused on Software Development, Data fundamentals, IoT solutions, Linux, and AI fundamentals
+💻 IT student developing skills in Software Development, Data, IoT, Linux, and AI
 
 ✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
@@ -36,20 +36,23 @@
 ## ✨ About Me
 
 I'm a technology and innovation enthusiast, a wife, and a mother of three.  
-I find inspiration in my family to build solutions that create a real and positive impact on people's lives — such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
-I am passionate about continuous learning and transforming challenges into growth, with a strong interest in software development, data fundamentals, and building solutions that generate meaningful insights and real-world impact.
 
+I find inspiration in my family to develop solutions that create a real and positive impact on people's lives, such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
+
+I am passionate about continuous learning and turning challenges into growth, with a focus on software development, data fundamentals, and building a solid career in Information Technology.
+
+Currently, I am learning Data with Python, exploring data analysis, organization, and visualization, always with curiosity and a strong desire to grow with each new class.
 
 ---
 
-## 👩‍🎓 Education  
+## 👩‍🎓 Education
 
-- 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
+- 🎓 **Computer Networks Technician** – [ETEC Prof. Massuyuki Kawano – Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all)  
   - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ie.svg" width="18"/> **[Cultural Exchange in Ireland](https://drive.google.com/file/d/1DfSC0XiT_dPFcbQCl0g3t9-KTPlv5VJe/view?usp=drive_link)**
   - 🏅 **[Honorable Mention](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
-  - 🌟 **[Outstanding Student](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)** 
+  - 🌟 **[Outstanding Student](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
 
-- 🎓 **Bachelor’s in Information Technology** – [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*  
+- 🎓 **Bachelor’s in Information Technology** – [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*
 
 - 🎓 **Systems Development Technician** – [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(in progress)*
 
@@ -61,7 +64,7 @@ I am passionate about continuous learning and transforming challenges into growt
 ![Data](https://img.shields.io/badge/Data-purple?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
 ![Information Security](https://img.shields.io/badge/Information_Security-red?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-violet?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-violet?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
 
 ---
@@ -69,17 +72,25 @@ I am passionate about continuous learning and transforming challenges into growt
 ## 💡 Featured Project
 
 [SmartCare – Elderly Monitoring](https://github.com/CrisleiKeliJenuino/SmartCare)  
-A system using **ESP32** for elderly monitoring, integrating sensors and real-time data monitoring.
+System developed with **ESP32** for elderly monitoring, integrating sensors and real-time data collection.
 
 ---
 
 ## 🛠️ Technologies and Tools
 
-### 🌐 Front-End Web Development
+### 🌐 Web Development (Front-End)
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+</p>
+
+### 📊 Python & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
 </p>
 
 ### 💡 IoT & Embedded Systems
