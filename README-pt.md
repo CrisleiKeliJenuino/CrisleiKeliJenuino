@@ -37,8 +37,11 @@
 ## ✨ Sobre Mim
 
 Sou uma entusiasta de tecnologia e inovação, esposa e mãe de três filhos.  
+
 Encontro na minha família a inspiração para desenvolver soluções que gerem um impacto positivo e real na vida das pessoas, como o meu projeto [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare).
+
 Sou apaixonada pelo aprendizado contínuo e por transformar desafios em crescimento, com foco no desenvolvimento de software, fundamentos de dados e na consolidação da minha carreira na área de Tecnologia da Informação.
+
 Atualmente, estou aprendendo Dados com Python, explorando análise, organização e visualização de dados, sempre com curiosidade e vontade de evoluir a cada aula.
 
 ---
