@@ -98,7 +98,3 @@ Sistema desenvolvido com **ESP32** para monitoramento de idosos, integrando sens
   <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Stars&style=flat-square&color=ff77aa" alt="Stars" />
 </p>
 
-<p align="center">
-  📧 Email: <b><a href="mailto:crislei.jenuino@etec.sp.gov.br">crislei.jenuino@etec.sp.gov.br</a></b>
-</p>
-
