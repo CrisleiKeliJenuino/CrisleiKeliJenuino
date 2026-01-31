@@ -7,7 +7,7 @@
 
 [![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README-pt.md)
 
-💻 IT student developing skills in **Software Development, Data, IoT, Linux, and Artificial Intelligence**
+💻 IT student building skills in **Software Development, Data, IoT, Linux, and AI**
 
 ✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
@@ -15,13 +15,13 @@
 
 ## ✨ About Me
 
-I am a technology and innovation enthusiast, a wife, and a mother of three.  
+I am a technology and innovation enthusiast, wife, and mother of three.  
 
-I find inspiration in my family to develop solutions that create a real and positive impact on people’s lives, such as my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
+I find inspiration in my family to develop solutions that create a real and positive impact on people’s lives, like my [SmartCare](https://github.com/CrisleiKeliJenuino/SmartCare) project.
 
-I am passionate about continuous learning and turning challenges into growth, with a strong focus on software development, data fundamentals, and building a solid career in Information Technology.
+I am passionate about continuous learning and turning challenges into growth, focusing on software development, data fundamentals, and building a solid IT career.
 
-Currently, I am learning **Data with Python**, exploring data analysis, organization, and visualization, always driven by curiosity and the desire to improve with every new class.
+Currently, I am learning **Data with Python**, exploring **data analysis, databases, organization, and visualization**, always driven by curiosity and the desire to improve with every new lesson.
 
 ---
 
@@ -33,22 +33,33 @@ Currently, I am learning **Data with Python**, exploring data analysis, organiza
   - 🏅 **[Honorable Mention](https://drive.google.com/file/d/1e0WEvrJBHwcIwB3sgdeoJnkm2NFimrOD/view?usp=drive_link)**
   - 🌟 **[Outstanding Student Award](https://drive.google.com/file/d/1hQmEx5VKX0VX65wE3EyVUFlieXqizYx8/view?usp=drive_link)**
 
-- 🎓 **Bachelor’s Degree in Information Technology** –  
-  [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*
-
-- 🎓 **Technical Degree in Systems Development** –  
-  [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(in progress)*
+- 🎓 **Bachelor’s in Information Technology** – [Univesp](https://www.linkedin.com/school/univespoficial/posts/?feedView=all) *(in progress)*  
+- 🎓 **Technical Degree in Systems Development** – [ETEC Prof. Massuyuki Kawano](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all) *(in progress)*
 
 ---
 
-## 📚 Interests
+## 📚 Interests & Skills
 
-![Software Development](https://img.shields.io/badge/Software_Development-blue?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-purple?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
-![Information Security](https://img.shields.io/badge/Information_Security-red?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-violet?style=for-the-badge)
-![QA](https://img.shields.io/badge/QA-green?style=for-the-badge)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="Databases"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="50" title="ESP32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+</p>
+
+- 📊 **Data & Databases:** Python, Pandas, NumPy, SQL, Data Analysis & Visualization  
+- 🌐 **Web Development:** HTML, CSS, JavaScript  
+- 💡 **IoT & Embedded Systems:** Arduino, ESP32  
+- 📡 **Computer Networks:** TCP/IP, OSI Model, Structured Cabling, Router Config, Wireshark  
+- ⚙️ **Tools & Platforms:** Linux, Git, GitHub  
 
 ---
 
@@ -56,51 +67,6 @@ Currently, I am learning **Data with Python**, exploring data analysis, organiza
 
 [SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)  
 A system developed with **ESP32** for elderly monitoring, integrating sensors and real-time data collection.
-
----
-
-## 🚀 Currently Learning & Practicing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Actively_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-Pandas_&_NumPy-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web_Development-HTML_|_CSS_|_JavaScript-0A66C2?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠️ Technologies & Tools
-
-### 🌐 Web Development (Front-End)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-</p>
-
-### 📊 Python & Data
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-</p>
-
-### 💡 IoT & Embedded Systems
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="50" alt="ESP32"/>
-</p>
-
-### 📡 Computer Networks
-• TCP/IP • OSI Model • Structured Cabling • Router Configuration • Wireshark
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-</p>
 
 ---
 
@@ -130,4 +96,3 @@ A system developed with **ESP32** for elderly monitoring, integrating sensors an
   <img src="https://img.shields.io/github/followers/CrisleiKeliJenuino?label=Followers&style=flat-square&color=ff77aa" alt="Followers" />
   <img src="https://img.shields.io/github/stars/CrisleiKeliJenuino?label=Stars&style=flat-square&color=ff77aa" alt="Stars" />
 </p>
-
