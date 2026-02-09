@@ -53,13 +53,16 @@ Currently, I am learning **Data with Python**, exploring **data analysis, databa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+
 </p>
 
 - 📊 **Data & Databases:** Python, Pandas, NumPy, SQL, Data Analysis & Visualization  
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - 💡 **IoT & Embedded Systems:** Arduino, ESP32  
 - 📡 **Computer Networks:** TCP/IP, OSI Model, Structured Cabling, Router Config, Wireshark  
-- ⚙️ **Tools & Platforms:** Linux, Git, GitHub  
+- ⚙️ **Tools & Platforms:** Linux, Git, GitHub, Visual Studio, VS Code
 
 ---
 
