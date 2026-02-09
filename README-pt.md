@@ -54,13 +54,17 @@ Atualmente, estou aprendendo **Dados com Python**, explorando **análise, bancos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+
 </p>
 
 - 📊 **Dados & Bancos de Dados:** Python, Pandas, NumPy, SQL, Análise e Visualização de Dados  
 - 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript  
 - 💡 **IoT & Sistemas Embarcados:** Arduino, ESP32  
 - 📡 **Redes de Computadores:** TCP/IP, Modelo OSI, Cabeamento Estruturado, Configuração de Roteadores, Wireshark  
-- ⚙️ **Ferramentas & Plataformas:** Linux, Git, GitHub  
+- ⚙️ **Ferramentas & Plataformas:** Linux, Git, GitHub, Visual Studio, VS Code
+  
 
 ---
 
