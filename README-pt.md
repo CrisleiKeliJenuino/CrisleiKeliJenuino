@@ -26,7 +26,7 @@ ETEC Prof. Massuyuki Kawano – Tupã/SP
 
 🏅 Honorable Mention  
 🌟 Outstanding Student  
-![Bandeira da Irlanda](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com) Cultural Exchange Program in Ireland  
+Cultural Exchange Program in Ireland  
 
 🎓 **Bachelor’s Degree in Information Technology** – Univesp *(in progress)*  
 
