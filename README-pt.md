@@ -18,13 +18,32 @@
 
 Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
 
-Atualmente estou estudando e desenvolvendo projetos com:
+Tenho formação técnica em Redes de Computadores e atualmente curso:
+- Bacharelado em Tecnologia da Informação (Univesp)
+- Técnico em Desenvolvimento de Sistemas (ETEC)
 
+Atualmente desenvolvendo projetos com:
 - React  
 - Next.js  
 - Node.js  
 - Delphi  
 - SQL  
+
+---
+
+## 👩‍🎓 Formação Acadêmica
+
+🎓 **Técnico em Redes de Computadores**  
+ETEC Prof. Massuyuki Kawano – Tupã/SP  
+
+🏅 Menção Honrosa  
+🌟 Aluna Destaque  
+🌍 Intercâmbio Cultural na Irlanda  
+
+🎓 **Bacharelado em Tecnologia da Informação** – Univesp *(em andamento)*  
+
+🎓 **Técnico em Desenvolvimento de Sistemas** – ETEC *(em andamento)*  
+
 
 Tenho grande interesse em desenvolvimento web, banco de dados e infraestrutura de redes, sempre buscando evoluir através de projetos práticos e resolução de problemas reais.
 
