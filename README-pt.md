@@ -17,18 +17,6 @@
 ## ✨ Sobre Mim
 
 Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
-
-Tenho formação técnica em Redes de Computadores e atualmente curso:
-- Bacharelado em Tecnologia da Informação (Univesp)
-- Técnico em Desenvolvimento de Sistemas (ETEC)
-
-Atualmente desenvolvendo projetos com:
-- React  
-- Next.js  
-- Node.js  
-- Delphi  
-- SQL  
-
 ---
 
 ## 👩‍🎓 Formação Acadêmica
@@ -43,7 +31,12 @@ ETEC Prof. Massuyuki Kawano – Tupã/SP
 🎓 **Bacharelado em Tecnologia da Informação** – Univesp *(em andamento)*  
 
 🎓 **Técnico em Desenvolvimento de Sistemas** – ETEC *(em andamento)*  
-
+Atualmente desenvolvendo projetos com:
+- React  
+- Next.js  
+- Node.js  
+- Delphi  
+- SQL  
 
 Tenho grande interesse em desenvolvimento web, banco de dados e infraestrutura de redes, sempre buscando evoluir através de projetos práticos e resolução de problemas reais.
 
