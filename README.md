@@ -83,6 +83,15 @@ Passionate about continuous learning and building a solid IT career through prac
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrisleiKeliJenuino&theme=radical" />
+</p>
+
+---
+
 ## 💡 Featured Project
 
 ### 🚀 [SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)
