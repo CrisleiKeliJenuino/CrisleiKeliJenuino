@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turning+ideas+into+code.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
-[![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README.md)
-
 # ✨ Hi, I’m Crislei! ✨
+
+[![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README-pt.md)
 
 💻 IT Student focused on **Full-Stack Development & Networking**
 
