@@ -62,7 +62,7 @@ Currently, I am learning **Data with Python**, exploring **data analysis, databa
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrisleiKeliJenuino&theme=radical" />
 
 ---
 
