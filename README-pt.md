@@ -3,102 +3,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+coisas+novas!" alt="Typing SVG"/>
 </p>
 
+# ✨ Hi, I'm Crislei! ✨
 
-# ✨ Olá, eu sou a Crislei! ✨
+[![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README.md)
 
-[![English](https://img.shields.io/badge/English-0078D4?style=for-the-badge)](README.md)
+💻 IT Student focused on **Full-Stack Development & Networking**
 
-💻 Estudante de TI com foco em **Desenvolvimento Full-Stack e Redes**
-
-✨ _“Transformando ideias em código e desafios em crescimento contínuo.”_ 🚀
+✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
 ---
 
-## ✨ Sobre Mim
+## ✨ About Me
 
-Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
+I am passionate about technology and innovation, wife and mother of three.
+
 ---
 
-## 👩‍🎓 Formação Acadêmica
+## 👩‍🎓 Education
 
-🎓 **Técnico em Redes de Computadores**  
+🎓 **Technical Degree in Computer Networks**  
 ETEC Prof. Massuyuki Kawano – Tupã/SP  
 
-🏅 Menção Honrosa  
-🌟 Aluna Destaque  
-🌍 Intercâmbio Cultural na Irlanda  
+🏅 Honorable Mention  
+🌟 Outstanding Student  
+🇮🇪 Cultural Exchange Program in Ireland  
 
-🎓 **Bacharelado em Tecnologia da Informação** – Univesp *(em andamento)*  
+🎓 **Bachelor’s Degree in Information Technology** – Univesp *(in progress)*  
 
-🎓 **Técnico em Desenvolvimento de Sistemas** – ETEC *(em andamento)*  
-Atualmente desenvolvendo projetos com:
+🎓 **Technical Degree in Systems Development** – ETEC *(in progress)*  
+
+---
+
+Currently developing projects with:
 - React  
 - Next.js  
 - Node.js  
 - Delphi  
 - SQL  
 
-Tenho grande interesse em desenvolvimento web, banco de dados e infraestrutura de redes, sempre buscando evoluir através de projetos práticos e resolução de problemas reais.
+I have strong interest in web development, databases, and network infrastructure, always seeking growth through practical projects and real-world problem solving.
 
 ---
 
-## 📚 Tecnologias e Habilidades
-
-### 💻 Linguagens e Programação
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
----
-
-### 🌐 Front-End
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-</p>
-
----
-
-### ⚙️ Back-End
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
----
-
-### 🗄️ Banco de Dados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
----
-
-### 🌐 Redes e Infraestrutura
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
-
-- TCP/IP  
-- Modelo OSI  
-- Configuração de Roteadores  
-- Wireshark  
-- VirtualBox  
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
@@ -107,22 +54,22 @@ Tenho grande interesse em desenvolvimento web, banco de dados e infraestrutura d
 
 ---
 
-## 💡 Projeto em Destaque
+## 💡 Featured Project
 
-### 🚀 [SmartCare – Sistema de Monitoramento para Idosos](https://github.com/CrisleiKeliJenuino/SmartCare)
+### 🚀 [SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)
 
-Sistema de monitoramento desenvolvido com **ESP32**, integrando sensores e coleta de dados em tempo real.
+Monitoring system developed with **ESP32**, integrating sensors and real-time data collection.
 
-[![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
+[![Repository](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-📧 crisleikeli@hotmail.com 
+📧 crisleikeli@hotmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
 
 ---
 
-⭐ Sempre aberta a aprender, colaborar e crescer na área de Tecnologia!
+⭐ Always open to learning, collaborating, and growing in the IT field!
