@@ -107,8 +107,8 @@ Sistema de monitoramento desenvolvido com **ESP32**, integrando sensores e colet
 
 ## 📬 Contato
 
-📧 crislei.jenuino@etec.sp.gov.br  
-🔗 LinkedIn: https://www.linkedin.com/in/crislei-jenuino-b3407734a/  
+📧 crisleikeli@hotmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
 
 ---
 
