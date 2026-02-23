@@ -25,7 +25,21 @@ Currently studying and working with:
 - Delphi  
 - SQL  
 
-Passionate about continuous learning and building a solid IT career through practical projects.
+---
+
+## 👩‍🎓 Education
+
+🎓 **Technical Degree in Computer Networks**  
+ETEC Prof. Massuyuki Kawano – Tupã, São Paulo, Brazil  
+🏅 Honorable Mention  
+🌟 Recognized as Outstanding Student  
+🌍 Selected for a Cultural Exchange Program in Ireland  
+
+🎓 **Bachelor’s Degree in Information Technology**  
+Univesp – *(Expected Graduation: Ongoing)*  
+
+🎓 **Technical Degree in Systems Development**  
+ETEC – *(In Progress)*  
 
 ---
 
