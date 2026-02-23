@@ -109,8 +109,8 @@ ETEC – *(Em andamento)*
 
 ---
 
-💡 Projeto em Destaque
-🚀 SmartCare – Sistema de Monitoramento para Idosos
+## 💡 Projeto em Destaque
+### 🚀 [SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)
 
 Sistema de monitoramento desenvolvido com ESP32, integrando sensores e coleta de dados em tempo real.
 
