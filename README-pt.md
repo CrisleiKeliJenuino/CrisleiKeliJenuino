@@ -3,36 +3,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A450FF&width=600&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello+World!;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformando+ideias+em+código.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempre+aprendendo+coisas+novas!" alt="Typing SVG"/>
 </p>
 
-# ✨ Hi, I'm Crislei! ✨
+# ✨ Olá, eu sou a Crislei! 👩‍💻✨
 
 [![Inglês](https://img.shields.io/badge/Inglês-009739?style=for-the-badge)](README.md)
 
-💻 Estudante de TI com foco em Desenvolvimento Full-Stack e Redes
+# 💻 Estudante de TI com foco em Desenvolvimento Full-Stack e Redes
 
 ✨ “Transformando ideias em código e desafios em crescimento contínuo.” 🚀
 
 ---
 
-✨ Sobre Mim
+## ✨ Sobre Mim
 
 Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
-
-Tenho grande interesse em desenvolvimento web, bancos de dados e infraestrutura de redes, sempre buscando evoluir por meio de projetos práticos e resolução de problemas do mundo real..
-
----
-
-👩‍🎓 Formação Acadêmica
-
-🎓 Técnico em Redes de Computadores
-ETEC Prof. Massuyuki Kawano – Tupã/SP
-
-🏅 Menção Honrosa
-🌟 Aluna Destaque
-🌍 Programa de Intercâmbio Cultural na Irlanda
-
-🎓 Bacharelado em Tecnologia da Informação – Univesp (em andamento)
-
-🎓 Técnico em Desenvolvimento de Sistemas – ETEC (em andamento) 
 
 ---
 
@@ -42,6 +25,78 @@ ETEC Prof. Massuyuki Kawano – Tupã/SP
 - Node.js
 - Delphi
 - SQL
+
+---
+
+## 👩‍🎓 Formação Acadêmica
+
+🎓 **Técnico em Redes de Computadores**  
+ETEC Prof. Massuyuki Kawano – Tupã, São Paulo, Brasil  
+🏅 Menção Honrosa  
+🌟 Reconhecida como Aluna Destaque  
+🌍 Selecionada para Programa de Intercâmbio Cultural na Irlanda  
+
+🎓 **Bacharelado em Tecnologia da Informação**  
+Univesp – *(Em andamento)*  
+
+🎓 **Técnico em Desenvolvimento de Sistemas**  
+ETEC – *(Em andamento)*  
+
+---
+
+## 📚 Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Front-End
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+</p>
+
+---
+
+### ⚙️ Back-End
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Redes e Infraestrutura
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+- Protocolo TCP/IP  
+- Modelo OSI  
+- Configuração de Roteadores  
+- Wireshark  
+- VirtualBox  
 
 ---
 
@@ -59,7 +114,7 @@ ETEC Prof. Massuyuki Kawano – Tupã/SP
 
 Sistema de monitoramento desenvolvido com ESP32, integrando sensores e coleta de dados em tempo real.
 
-<p> <a href="https://github.com/CrisleiKeliJenuino/SmartCare"> <img src="https://img.shields.io/badge/GitHub-Ver%20Repositório-black?style=flat&logo=github"/> </a> </p>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
 ---
 
