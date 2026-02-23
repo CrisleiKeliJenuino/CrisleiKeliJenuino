@@ -7,7 +7,7 @@
 
 [![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README-pt.md)
 
-💻 IT Student focused on **Full-Stack Development & Networking**
+# 💻 IT Student focused on **Full-Stack Development & Networking**
 
 ✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
 
@@ -16,6 +16,8 @@
 ## ✨ About Me
 
 I am a technology and innovation enthusiast, wife, and mother of three.
+
+---
 
 ## 🛠️ Currently studying and working with:
 
