@@ -19,12 +19,8 @@ Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
 
 ---
 
-🛠️ Atualmente desenvolvendo projetos com:
-- React
-- Next.js
-- Node.js
-- Delphi
-- SQL
+## 🛠️ Atualmente desenvolvendo projetos com:
+React | Next.js | Node.js | Delphi | SQL
 
 ---
 
