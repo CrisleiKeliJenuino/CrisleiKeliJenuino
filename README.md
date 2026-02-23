@@ -17,7 +17,7 @@
 
 I am a technology and innovation enthusiast, wife, and mother of three.
 
-Currently studying and working with:
+## 🛠️ Currently studying and working with:
 
 - React  
 - Next.js  
