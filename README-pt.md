@@ -5,43 +5,43 @@
 
 # ✨ Hi, I'm Crislei! ✨
 
-[![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README.md)
+[![Inglês](https://img.shields.io/badge/Inglês-009739?style=for-the-badge)](README.md)
 
-💻 IT Student focused on **Full-Stack Development & Networking**
+💻 Estudante de TI com foco em Desenvolvimento Full-Stack e Redes
 
-✨ _“Turning ideas into code and challenges into continuous growth.”_ 🚀
-
----
-
-## ✨ About Me
-
-I am passionate about technology and innovation, wife and mother of three.
+✨ “Transformando ideias em código e desafios em crescimento contínuo.” 🚀
 
 ---
 
-## 👩‍🎓 Education
+✨ Sobre Mim
 
-🎓 **Technical Degree in Computer Networks**  
-ETEC Prof. Massuyuki Kawano – Tupã/SP  
+Sou apaixonada por tecnologia e inovação, esposa e mãe de três filhos.
 
-🏅 Honorable Mention  
-🌟 Outstanding Student  
-Cultural Exchange Program in Ireland  
-
-🎓 **Bachelor’s Degree in Information Technology** – Univesp *(in progress)*  
-
-🎓 **Technical Degree in Systems Development** – ETEC *(in progress)*  
+Tenho grande interesse em desenvolvimento web, bancos de dados e infraestrutura de redes, sempre buscando evoluir por meio de projetos práticos e resolução de problemas do mundo real..
 
 ---
 
-Currently developing projects with:
-- React  
-- Next.js  
-- Node.js  
-- Delphi  
-- SQL  
+👩‍🎓 Formação Acadêmica
 
-I have strong interest in web development, databases, and network infrastructure, always seeking growth through practical projects and real-world problem solving.
+🎓 Técnico em Redes de Computadores
+ETEC Prof. Massuyuki Kawano – Tupã/SP
+
+🏅 Menção Honrosa
+🌟 Aluna Destaque
+🌍 Programa de Intercâmbio Cultural na Irlanda
+
+🎓 Bacharelado em Tecnologia da Informação – Univesp (em andamento)
+
+🎓 Técnico em Desenvolvimento de Sistemas – ETEC (em andamento) 
+
+---
+
+🛠️ Atualmente desenvolvendo projetos com:
+- React
+- Next.js
+- Node.js
+- Delphi
+- SQL
 
 ---
 
@@ -54,22 +54,21 @@ I have strong interest in web development, databases, and network infrastructure
 
 ---
 
-## 💡 Featured Project
+💡 Projeto em Destaque
+🚀 SmartCare – Sistema de Monitoramento para Idosos
 
-### 🚀 [SmartCare – Elderly Monitoring System](https://github.com/CrisleiKeliJenuino/SmartCare)
+Sistema de monitoramento desenvolvido com ESP32, integrando sensores e coleta de dados em tempo real.
 
-Monitoring system developed with **ESP32**, integrating sensors and real-time data collection.
-
-[![Repository](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
-
----
-
-## 📬 Contact
-
-📧 crisleikeli@hotmail.com  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+<p> <a href="https://github.com/CrisleiKeliJenuino/SmartCare"> <img src="https://img.shields.io/badge/GitHub-Ver%20Repositório-black?style=flat&logo=github"/> </a> </p>
 
 ---
 
-⭐ Always open to learning, collaborating, and growing in the IT field!
+📬 Contato
+
+📧 crisleikeli@hotmail.com
+
+<p> <a href="https://www.linkedin.com/in/crislei-jenuino-b3407734a/"> <img src="https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
+---
+
+⭐ Sempre aberta a aprender, colaborar e crescer na área de Tecnologia da Informação!
