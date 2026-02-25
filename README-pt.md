@@ -98,8 +98,8 @@ ETEC – *(Em andamento)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrisleiKeliJenuino&theme=radical" />
+  <img height="30" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
+  <img height="60" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrisleiKeliJenuino&theme=radical" />
 </p>
 
 ---
