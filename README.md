@@ -41,7 +41,7 @@ ETEC – *(In Progress)*
 
 ---
 
-## 📚 Tech Stack
+## 📚 Technologies and Tools
 
 ### 💻 Languages & Programming
 
