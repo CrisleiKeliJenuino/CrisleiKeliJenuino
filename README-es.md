@@ -103,11 +103,7 @@ ETEC – *(En curso)*
 
 ### 🧠 SmartCare – Sistema de Monitoreo para Personas Mayores
 
-<p align="center">
-  <a href="https://github.com/CrisleiKeliJenuino/SmartCare">
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
 📡 Sistema de monitoreo en tiempo real utilizando ESP32  
 📊 Recolección y transmisión continua de datos  
