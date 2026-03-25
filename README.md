@@ -71,12 +71,16 @@ HTML | CSS | React (Web) | React Native (Mobile)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
+Node.js | REST APIs | Backend Basics
+
 ---
 
 ### 🗄️ Database
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
+
+MySQL | Database Modeling | SQL Queries
 
 ---
 
@@ -95,6 +99,8 @@ HTML | CSS | React (Web) | React Native (Mobile)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
+Git | GitHub | VS Code
 
 ---
 
