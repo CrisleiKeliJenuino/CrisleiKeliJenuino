@@ -102,11 +102,20 @@ Linux | TCP/IP | OSI | Wireshark | Router Config | VirtualBox
 
 ### 🧠 SmartCare – Elderly Monitoring System
 
-📡 Monitoring system using ESP32  
-📊 Real-time data collection  
-❤️ Focused on elderly safety  
+<p align="center">
+  
+[![SmartCare](https://img.shields.io/badge/Project-SmartCare-8A2BE2?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
-🔗 https://github.com/CrisleiKeliJenuino/SmartCare  
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge&logo=espressif)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge)
+![Safety](https://img.shields.io/badge/focus-elderly%20safety-red?style=for-the-badge)
+
+</p>
+
+📡 Monitoring system using ESP32 for real-time data tracking  
+📊 Continuous data collection and transmission  
+📍 Focused on elderly safety and remote monitoring  
 
 ---
 

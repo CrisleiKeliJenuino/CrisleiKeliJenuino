@@ -100,13 +100,22 @@ Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de routers | VirtualBox
 
 ## 🚀 Proyecto Destacado
 
-### 🧠 SmartCare – Sistema de monitoreo para personas mayores
+### 🧠 SmartCare – Sistema de Monitoreo para Personas Mayores
 
-📡 Sistema con ESP32  
-📊 Recolección de datos en tiempo real  
-❤️ Enfocado en la seguridad de personas mayores  
+<p align="center">
+  
+[![SmartCare](https://img.shields.io/badge/Proyecto-SmartCare-8A2BE2?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
+[![Ver Proyecto](https://img.shields.io/badge/GitHub-Ver%20Proyecto-black?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
-🔗 https://github.com/CrisleiKeliJenuino/SmartCare  
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge&logo=espressif)
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=for-the-badge)
+![Seguridad](https://img.shields.io/badge/enfoque-seguridad%20de%20mayores-red?style=for-the-badge)
+
+</p>
+
+📡 Sistema con ESP32 para monitoreo en tiempo real  
+📊 Recolección y envío continuo de datos  
+📍 Enfocado en la seguridad y seguimiento de personas mayores  
 
 ---
 
