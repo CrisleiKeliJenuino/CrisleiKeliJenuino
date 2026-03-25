@@ -41,6 +41,8 @@ ETEC – *(In Progress)*
 
 ---
 
+💡 Currently learning and developing skills in the technologies below:
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages

@@ -41,6 +41,8 @@ ETEC – *(En curso)*
 
 ---
 
+💡 Actualmente en proceso de aprendizaje y desarrollo en las siguientes tecnologías:
+
 ## 🛠️ Tecnologías
 
 ### 💻 Lenguajes
