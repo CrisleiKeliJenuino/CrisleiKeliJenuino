@@ -45,51 +45,23 @@ ETEC – *(In Progress)*
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40"/>
-</p>
-
----
+### 💻 Programming Languages
+JavaScript | Delphi
 
 ### 🌐 Front-End & Mobile
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</p>
-
-HTML | CSS | React (Web) | React Native (Mobile)
-
----
+HTML | CSS | React | React Native
 
 ### ⚙️ Back-End
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
-Node.js | REST APIs | Backend Basics
-
----
+Node.js
 
 ### 🗄️ Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
+MySQL
 
-MySQL | Database Modeling | SQL Queries
-
----
+### 🧰 Tools & Platforms
+Git | GitHub | VS Code
 
 ### 🌐 Networking & Infrastructure
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
-  Linux | TCP/IP | OSI Model | Wireshark | Networking Devices Configuration | VirtualBox
-</p>
+Linux | TCP/IP | OSI Model | Wireshark | VirtualBox
 
 ---
 
