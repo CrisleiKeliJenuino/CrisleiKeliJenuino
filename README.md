@@ -26,16 +26,12 @@
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education & Achievements
 
 🎓 **Technical Degree in Computer Networks** – ETEC  
 🏅 Honorable Mention  
 🌟 Recognized as Outstanding Student  
 🌍 Selected for a Cultural Exchange Program in Ireland  
-
----
-
-## 👩‍🎓 Education
 
 🎓 **Bachelor’s Degree in Information Technology**  
 Univesp – *(In Progress)*  

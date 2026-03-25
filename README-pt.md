@@ -26,16 +26,12 @@
 
 ---
 
-## 🏆 Conquistas
+## 🎓 Formação e Conquistas
 
 🎓 **Técnico em Redes de Computadores** – ETEC  
 🏅 Menção Honrosa  
 🌟 Reconhecida como aluna destaque  
 🌍 Selecionada para programa de intercâmbio cultural na Irlanda  
-
----
-
-## 👩‍🎓 Formação
 
 🎓 **Bacharelado em Tecnologia da Informação**  
 Univesp – *(Em andamento)*  

@@ -26,16 +26,12 @@
 
 ---
 
-## 🏆 Logros
+## 🎓 Educación y Logros
 
 🎓 **Técnico en Redes de Computadoras** – ETEC  
 🏅 Mención Honorífica  
 🌟 Reconocida como estudiante destacada  
 🌍 Seleccionada para un programa de intercambio cultural en Irlanda  
-
----
-
-## 👩‍🎓 Educación
 
 🎓 **Licenciatura en Tecnología de la Información**  
 Univesp – *(En curso)*  
