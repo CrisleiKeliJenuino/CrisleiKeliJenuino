@@ -80,15 +80,11 @@ ETEC – *(Em andamento)*
 ---
 
 ### 🌐 Redes e Infraestrutura
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Network-blue?style=for-the-badge)
-![OSI](https://img.shields.io/badge/OSI%20Model-Network-important?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge)
-![Routers](https://img.shields.io/badge/Router-Configuration-orange?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
+  Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Roteadores | VirtualBox
+</p>
 
 ---
 
