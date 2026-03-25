@@ -91,7 +91,7 @@ Linux | TCP/IP | OSI Model | Wireshark | Router Configuration | VirtualBox
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 Top Languages
 
 <p align="center">
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
