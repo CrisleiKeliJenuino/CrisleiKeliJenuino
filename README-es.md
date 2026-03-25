@@ -104,19 +104,14 @@ ETEC – *(En curso)*
 ### 🧠 SmartCare – Sistema de Monitoreo para Personas Mayores
 
 <p align="center">
-  
-[![SmartCare](https://img.shields.io/badge/Proyecto-SmartCare-8A2BE2?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
-[![Ver Proyecto](https://img.shields.io/badge/GitHub-Ver%20Proyecto-black?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
-
-![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge&logo=espressif)
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=for-the-badge)
-![Seguridad](https://img.shields.io/badge/enfoque-seguridad%20de%20mayores-red?style=for-the-badge)
-
+  <a href="https://github.com/CrisleiKeliJenuino/SmartCare">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 📡 Sistema de monitoreo en tiempo real utilizando ESP32  
 📊 Recolección y transmisión continua de datos  
-📍 Enfocado en la seguridad y monitoreo remoto de personas mayores 
+📍 Enfocado en la seguridad y monitoreo remoto de personas mayores  
 
 ---
 
