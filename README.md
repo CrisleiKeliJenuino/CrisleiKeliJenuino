@@ -43,6 +43,8 @@ ETEC – *(In Progress)*
 
 💡 Currently learning and developing skills in the technologies below:
 
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -83,7 +85,7 @@ ETEC – *(In Progress)*
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
-  Linux | TCP/IP | OSI Model | Wireshark | Router Configuration | VirtualBox
+  Linux | TCP/IP | OSI Model | Wireshark | Networking Devices Configuration | VirtualBox
 </p>
 
 ---
@@ -97,7 +99,7 @@ ETEC – *(In Progress)*
 
 ---
 
-## 📊 Top Languages
+## 📊 Most Used Languages
 
 <p align="center">
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
@@ -120,7 +122,7 @@ ETEC – *(In Progress)*
 
 </p>
 
-📡 Monitoring system using ESP32 for real-time data tracking  
+📡 Real-time monitoring system using ESP32  
 📊 Continuous data collection and transmission  
 📍 Focused on elderly safety and remote monitoring  
 
