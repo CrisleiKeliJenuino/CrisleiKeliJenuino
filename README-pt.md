@@ -63,7 +63,7 @@ Node.js
 ---
 
 ### 🗄️ Banco de Dados
-MySQL
+SQL
 
 ---
 

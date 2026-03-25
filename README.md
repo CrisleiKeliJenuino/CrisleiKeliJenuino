@@ -55,7 +55,7 @@ HTML | CSS | React | React Native
 Node.js
 
 ### 🗄️ Database
-MySQL
+SQL
 
 ### 🧰 Tools & Platforms
 Git | GitHub | VS Code

@@ -52,7 +52,7 @@ JavaScript | Delphi
 
 ---
 
-### 🌐 Front-End & Mobile
+### 🌐 Front-End y Mobile
 HTML | CSS | React | React Native
 
 ---
@@ -63,11 +63,11 @@ Node.js
 ---
 
 ### 🗄️ Base de Datos
-MySQL
+SQL
 
 ---
 
-### 🌐 Redes e Infraestructura
+### 🌐 Redes y Infraestructura
 Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de Dispositivos de Red | VirtualBox
 
 ---
