@@ -62,7 +62,7 @@ ETEC – *(In Progress)*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-React (Web) | React Native (Mobile)
+HTML | CSS | React (Web) | React Native (Mobile)
 
 ---
 

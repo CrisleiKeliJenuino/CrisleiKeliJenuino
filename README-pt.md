@@ -55,15 +55,14 @@ ETEC – *(Em andamento)*
 
 ---
 
-### 🌐 Front-End & Mobile
+### 🌐 Front-End e Mobile
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-![React](https://img.shields.io/badge/React-Web-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+HTML | CSS | React (Web) | React Native (Mobile)
 
 ---
 
