@@ -45,56 +45,35 @@ ETEC – *(En curso)*
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Habilidades
 
-### 💻 Lenguajes
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40"/>
-</p>
+### 💻 Lenguajes de Programación
+JavaScript | Delphi
 
 ---
 
-### 🌐 Front-End y Mobile
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</p>
-
-HTML | CSS | React (Web) | React Native (Mobile)
+### 🌐 Front-End & Mobile
+HTML | CSS | React | React Native
 
 ---
 
 ### ⚙️ Back-End
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
+Node.js
 
 ---
 
 ### 🗄️ Base de Datos
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
+MySQL
 
 ---
 
 ### 🌐 Redes e Infraestructura
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
-  Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de Dispositivos de Red | VirtualBox
-</p>
+Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de Dispositivos de Red | VirtualBox
 
 ---
 
 ### 🧰 Herramientas y Plataformas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+Git | GitHub | VS Code
 
 ---
 
