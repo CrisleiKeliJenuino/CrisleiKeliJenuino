@@ -82,12 +82,18 @@ ETEC – *(Em andamento)*
 ### 🌐 Redes e Infraestrutura
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Roteadores | VirtualBox  
+
+---
+
+### 🧰 Ferramentas e Plataformas
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
-Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Roteadores | VirtualBox  
 
 ---
 
