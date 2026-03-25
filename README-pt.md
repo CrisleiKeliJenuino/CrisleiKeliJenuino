@@ -43,6 +43,8 @@ ETEC – *(Em andamento)*
 
 💡 Atualmente em aprendizado e desenvolvimento contínuo nas tecnologias abaixo:
 
+---
+
 ## 🛠️ Tecnologias
 
 ### 💻 Linguagens
@@ -83,7 +85,7 @@ ETEC – *(Em andamento)*
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
-  Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Roteadores | VirtualBox
+  Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Dispositivos de Rede | VirtualBox
 </p>
 
 ---
@@ -112,9 +114,9 @@ ETEC – *(Em andamento)*
 
 </p>
 
-📡 Sistema utilizando ESP32 para monitoramento em tempo real  
-📊 Coleta e envio de dados contínuos  
-📍 Foco na segurança e acompanhamento de idosos  
+📡 Sistema de monitoramento em tempo real utilizando ESP32  
+📊 Coleta e transmissão contínua de dados  
+📍 Focado na segurança e monitoramento remoto de idosos  
 
 ---
 
