@@ -91,22 +91,6 @@ Linux | TCP/IP | OSI Model | Wireshark | Router Configuration | VirtualBox
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrisleiKeliJenuino&theme=radical" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CrisleiKeliJenuino&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🧠 SmartCare – Elderly Monitoring System
