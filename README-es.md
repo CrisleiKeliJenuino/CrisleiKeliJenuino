@@ -2,52 +2,52 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 </p>
 
+[![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge)](README.md)
 [![Português](https://img.shields.io/badge/Português-009739?style=for-the-badge)](README-pt.md)
-[![Español](https://img.shields.io/badge/Español-E34F26?style=for-the-badge)](README-es.md)
 
-<h1 align="center">✨ Hi, I'm Crislei! ✨</h1>
+<h1 align="center">✨ ¡Hola, soy Crislei! ✨</h1>
 
 <p align="center">
-💻 IT Student | 🌐 Networking | 🚀 Future Full-Stack Developer  
+💻 Estudiante de TI | 🌐 Redes | 🚀 Futura Desarrolladora Full-Stack  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A450FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code;Always+learning+new+things;Focused+on+growth+and+innovation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A450FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+código;Siempre+aprendiendo+nuevas+cosas;Enfocada+en+crecimiento+e+innovación"/>
 </p>
 
 ---
 
-## ✨ About Me
+## ✨ Sobre mí
 
-👩‍💻 Passionate about technology, innovation, and problem-solving  
-👩‍👧‍👦 Wife and mother of three  
-📚 Focused on building a career in IT  
-🚀 Always learning and improving every day  
-
----
-
-## 🏆 Achievements
-
-🎓 **Technical Degree in Computer Networks** – ETEC  
-🏅 Honorable Mention  
-🌟 Recognized as Outstanding Student  
-🌍 Selected for a Cultural Exchange Program in Ireland  
+👩‍💻 Apasionada por la tecnología, la innovación y la resolución de problemas  
+👩‍👧‍👦 Esposa y madre de tres hijos  
+📚 Enfocada en construir una carrera en TI  
+🚀 Siempre aprendiendo y mejorando cada día  
 
 ---
 
-## 👩‍🎓 Education
+## 🏆 Logros
 
-🎓 **Bachelor’s Degree in Information Technology**  
-Univesp – *(In Progress)*  
-
-🎓 **Technical Degree in Systems Development**  
-ETEC – *(In Progress)*  
+🎓 **Técnico en Redes de Computadoras** – ETEC  
+🏅 Mención Honorífica  
+🌟 Reconocida como estudiante destacada  
+🌍 Seleccionada para un programa de intercambio cultural en Irlanda  
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍🎓 Educación
 
-### 💻 Languages
+🎓 **Licenciatura en Tecnología de la Información**  
+Univesp – *(En curso)*  
+
+🎓 **Técnico en Desarrollo de Sistemas**  
+ETEC – *(En curso)*  
+
+---
+
+## 🛠️ Tecnologías
+
+### 💻 Lenguajes
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40"/>
@@ -66,17 +66,17 @@ ETEC – *(In Progress)*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Base de Datos
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-### 🌐 Networking
-Linux | TCP/IP | OSI | Wireshark | Router Config | VirtualBox  
+### 🌐 Redes
+Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de routers | VirtualBox  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
@@ -90,7 +90,7 @@ Linux | TCP/IP | OSI | Wireshark | Router Config | VirtualBox
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Racha de contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CrisleiKeliJenuino&theme=radical&hide_border=true"/>
@@ -98,28 +98,28 @@ Linux | TCP/IP | OSI | Wireshark | Router Config | VirtualBox
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Proyecto Destacado
 
-### 🧠 SmartCare – Elderly Monitoring System
+### 🧠 SmartCare – Sistema de monitoreo para personas mayores
 
-📡 Monitoring system using ESP32  
-📊 Real-time data collection  
-❤️ Focused on elderly safety  
+📡 Sistema con ESP32  
+📊 Recolección de datos en tiempo real  
+❤️ Enfocado en la seguridad de personas mayores  
 
 🔗 https://github.com/CrisleiKeliJenuino/SmartCare  
 
 ---
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-- 🚀 Get my first internship in IT  
-- 💻 Become a Full-Stack Developer  
-- 🌐 Deepen my knowledge in Networking  
-- 📚 Keep evolving every day  
+- 🚀 Conseguir mi primera pasantía en TI  
+- 💻 Convertirme en desarrolladora Full-Stack  
+- 🌐 Profundizar en redes  
+- 📚 Seguir aprendiendo cada día  
 
 ---
 
-## 📬 Contact
+## 📬 Contacto
 
 📧 crisleikeli@hotmail.com  
 
@@ -131,4 +131,4 @@ Linux | TCP/IP | OSI | Wireshark | Router Config | VirtualBox
 
 ---
 
-⭐ *"Turning ideas into code and challenges into growth."*
+⭐ *"Transformando ideas en código y desafíos en crecimiento."*
