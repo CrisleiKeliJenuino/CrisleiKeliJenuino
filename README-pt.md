@@ -36,9 +36,6 @@
 🎓 **Bacharelado em Tecnologia da Informação**  
 Univesp – *(Em andamento)*  
 
-🎓 **Técnico em Desenvolvimento de Sistemas**  
-ETEC – *(Em andamento)*  
-
 ---
 
 💡 Atualmente em aprendizado e desenvolvimento contínuo nas tecnologias abaixo:
