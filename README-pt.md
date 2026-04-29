@@ -8,7 +8,8 @@
 <h1 align="center">✨ Olá, eu sou a Crislei! ✨</h1>
 
 <p align="center">
-💻 Estudante de TI | 🌐 Redes | 🚀 Futura Desenvolvedora Full-Stack  
+💻 Estudante de TI | 🌐 Redes de Computadores | 🛠️ Suporte Técnico  
+
 </p>
 
 <p align="center">
@@ -19,10 +20,20 @@
 
 ## ✨ Sobre mim
 
-👩‍💻 Apaixonada por tecnologia, inovação e resolução de problemas  
-👩‍👧‍👦 Esposa e mãe de três filhos  
-📚 Focada em construir uma carreira na área de TI  
-🚀 Sempre aprendendo e evoluindo a cada dia  
+👩‍💻 Técnica em Redes de Computadores em formação superior em TI  
+🔧 Interesse em suporte técnico, redes e infraestrutura  
+📚 Em constante aprendizado, com foco em desenvolvimento profissional  
+💼 Experiência com atendimento ao público e suporte técnico, desenvolvendo comunicação e resolução de problemas
+🚀 Buscando oportunidade de estágio na área de TI para aplicar e ampliar meus conhecimentos 
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Conquistar minha primeira oportunidade de estágio em TI  
+- 💻 Desenvolver carreira na área de suporte e redes  
+- 🌐 Aprofundar conhecimentos em redes  
+- 📚 Evoluir continuamente na área de tecnologia  
 
 ---
 
@@ -42,35 +53,19 @@ Univesp – *(Em andamento)*
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
-
-### 💻 Linguagens de Programação
-JavaScript | Delphi
-
----
-
-### 🌐 Front-End & Mobile
-HTML | CSS | React | React Native
-
----
-
-### ⚙️ Back-End
-Node.js
-
----
-
-### 🗄️ Banco de Dados
-SQL
-
----
+## 🛠️ Habilidades Técnicas
 
 ### 🌐 Redes & Infraestrutura
-Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Dispositivos de Rede | VirtualBox
+Linux | TCP/IP | Modelo OSI | Wireshark | Configuração de Redes | VirtualBox
 
----
+### 🧰 Suporte Técnico
+Atendimento a usuários | Diagnóstico de problemas | Instalação e configuração de sistemas | Suporte remoto
 
-### 🧰 Ferramentas & Plataformas
+### 🧰 Ferramentas
 Git | GitHub | VS Code
+
+### 💻 Conhecimentos em Desenvolvimento
+HTML | CSS | JavaScript (básico) | Node.js (noções) | SQL (básico)
 
 ---
 
@@ -80,18 +75,9 @@ Git | GitHub | VS Code
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-GitHub-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
-📡 Sistema de monitoramento em tempo real utilizando ESP32  
-📊 Coleta e transmissão contínua de dados  
-📍 Focado na segurança e monitoramento remoto de idosos  
-
----
-
-## 🎯 Objetivos
-
-- 🚀 Conquistar minha primeira oportunidade de estágio em TI  
-- 💻 Tornar-me Desenvolvedora Full-Stack  
-- 🌐 Aprofundar conhecimentos em redes  
-- 📚 Evoluir continuamente na área de tecnologia  
+📡 Desenvolvimento de sistema com ESP32 utilizando protocolo MQTT   
+📊 Monitoramento e transmissão de dados em tempo real  
+📍 Aplicação voltada para acompanhamento remoto  
 
 ---
 
@@ -107,4 +93,5 @@ Git | GitHub | VS Code
 
 ---
 
-⭐ *"Transformando ideias em código e desafios em crescimento."*
+⭐ *"Aprendendo, evoluindo e construindo minha carreira na área de TI."*
+
