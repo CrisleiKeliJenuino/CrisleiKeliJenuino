@@ -51,7 +51,7 @@ Univesp – *(In progress)*
 ## 🛠️ Technical Skills
 
 ### 🌐 Networks & Infrastructure
-Linux | TCP/IP | OSI Model | Wireshark | Network Configuration | VirtualBox  
+Linux 🐧 | TCP/IP | OSI Model | Wireshark | Network Configuration | VirtualBox  
 
 ### 🧰 IT Support
 User support | Troubleshooting | System installation and configuration | Remote support  
@@ -62,15 +62,6 @@ Git | GitHub | VS Code
 ### 💻 Development Knowledge
 HTML | CSS | JavaScript (basic) | Node.js (basic) | SQL (basic)  
 
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrisleiKeliJenuino&theme=radical" />
-</p>
-
----
 ---
 
 ## 🚀 Featured Project
