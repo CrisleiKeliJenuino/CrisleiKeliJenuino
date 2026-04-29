@@ -36,9 +36,6 @@
 🎓 **Bachelor’s Degree in Information Technology**  
 Univesp – *(In Progress)*  
 
-🎓 **Technical Degree in Systems Development**  
-ETEC – *(In Progress)*  
-
 ---
 
 💡 Currently learning and developing skills in the technologies below:
