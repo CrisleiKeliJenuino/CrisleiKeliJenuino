@@ -51,7 +51,7 @@ Univesp – *(En curso)*
 ## 🛠️ Habilidades Técnicas
 
 ### 🌐 Redes e Infraestructura
-Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de Redes | VirtualBox  
+🐧Linux | TCP/IP | Modelo OSI | Wireshark | Configuración de Redes | VirtualBox  
 
 ### 🧰 Soporte Técnico
 Atención a usuarios | Resolución de problemas | Instalación y configuración de sistemas | Soporte remoto  
