@@ -8,33 +8,39 @@
 <h1 align="center">✨ Hi, I'm Crislei! ✨</h1>
 
 <p align="center">
-💻 IT Student | 🌐 Networking | 🚀 Future Full-Stack Developer  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A450FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code;Always+learning+new+things;Focused+on+growth+and+innovation"/>
+💻 IT Student | 🌐 Computer Networks | 🛠️ IT Support  
 </p>
 
 ---
 
 ## ✨ About Me
 
-👩‍💻 Passionate about technology, innovation, and problem-solving  
-👩‍👧‍👦 Wife and mother of three  
-📚 Focused on building a career in IT  
-🚀 Always learning and improving every day  
+- 👩‍💻 Computer Networks Technician currently pursuing a Bachelor's degree in IT  
+- 🔧 Interested in IT support, networks, and infrastructure  
+- 📚 Constantly learning and focused on professional growth  
+- 💼 Experience with customer service and technical support, developing communication and problem-solving skills  
+- 🚀 Seeking an internship opportunity in IT to apply and expand my knowledge  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Land my first internship opportunity in IT  
+- 💻 Build a career in IT support and networking  
+- 🌐 Deepen my knowledge in networks  
+- 📚 Continuously grow in the technology field  
 
 ---
 
 ## 🎓 Education & Achievements
 
-🎓 **Technical Degree in Computer Networks** – ETEC  
+🎓 **Computer Networks Technician** – ETEC  
 🏅 Honorable Mention  
-🌟 Recognized as Outstanding Student  
-🌍 Selected for a Cultural Exchange Program in Ireland  
+🌟 Recognized as a top student  
+🌍 Selected for a cultural exchange program in Ireland  
 
-🎓 **Bachelor’s Degree in Information Technology**  
-Univesp – *(In Progress)*  
+🎓 **Bachelor's Degree in Information Technology**  
+Univesp – *(In progress)*  
 
 ---
 
@@ -42,23 +48,19 @@ Univesp – *(In Progress)*
 
 ---
 
-### 💻 Programming Languages
-JavaScript | Delphi
+## 🛠️ Technical Skills
 
-### 🌐 Front-End & Mobile
-HTML | CSS | React | React Native
+### 🌐 Networks & Infrastructure
+Linux | TCP/IP | OSI Model | Wireshark | Network Configuration | VirtualBox  
 
-### ⚙️ Back-End
-Node.js
+### 🧰 IT Support
+User support | Troubleshooting | System installation and configuration | Remote support  
 
-### 🗄️ Database
-SQL
+### 🧰 Tools
+Git | GitHub | VS Code  
 
-### 🧰 Tools & Platforms
-Git | GitHub | VS Code
-
-### 🌐 Networking & Infrastructure
-Linux | TCP/IP | OSI Model | Wireshark | VirtualBox
+### 💻 Development Knowledge
+HTML | CSS | JavaScript (basic) | Node.js (basic) | SQL (basic)  
 
 ---
 
@@ -69,25 +71,22 @@ Linux | TCP/IP | OSI Model | Wireshark | VirtualBox
 </p>
 
 ---
+---
 
 ## 🚀 Featured Project
 
 ### 🧠 SmartCare – Elderly Monitoring System
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
+📌 **Practical IoT project focused on remote monitoring**
 
-📡 Real-time monitoring system using ESP32  
-📊 Continuous data collection and transmission  
-📍 Focused on elderly safety and remote monitoring  
+🔗 **Check out my main project below:**  
+<br>
 
----
+[![SmartCare on GitHub](https://img.shields.io/badge/Access%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
-## 🎯 Goals
-
-- 🚀 Get my first internship in IT  
-- 💻 Become a Full-Stack Developer  
-- 🌐 Deepen my knowledge in Networking  
-- 📚 Keep evolving every day  
+📡 System developed with ESP32 using MQTT protocol  
+📊 Real-time data monitoring and transmission  
+📍 Focused on remote monitoring applications  
 
 ---
 
@@ -103,4 +102,4 @@ Linux | TCP/IP | OSI Model | Wireshark | VirtualBox
 
 ---
 
-⭐ *"Turning ideas into code and challenges into growth."*
+⭐ *"Learning, evolving, and building my career in IT."*
