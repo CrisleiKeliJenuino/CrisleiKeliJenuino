@@ -51,7 +51,7 @@ Univesp – *(In progress)*
 ## 🛠️ Technical Skills
 
 ### 🌐 Networks & Infrastructure
-Linux 🐧 | TCP/IP | OSI Model | Wireshark | Network Configuration | VirtualBox  
+🐧Linux | TCP/IP | OSI Model | Wireshark | Network Configuration | VirtualBox  
 
 ### 🧰 IT Support
 User support | Troubleshooting | System installation and configuration | Remote support  
