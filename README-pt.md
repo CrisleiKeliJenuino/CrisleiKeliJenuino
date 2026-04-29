@@ -20,12 +20,11 @@
 
 ## ✨ Sobre mim
 
-👩‍💻 Técnica em Redes de Computadores em formação superior em TI  
-🔧 Interesse em suporte técnico, redes e infraestrutura  
-📚 Em constante aprendizado, com foco em desenvolvimento profissional  
-💼 Experiência com atendimento ao público e suporte técnico, desenvolvendo comunicação e resolução de problemas
-
-🚀 Buscando oportunidade de estágio na área de TI para aplicar e ampliar meus conhecimentos 
+- 👩‍💻 Técnica em Redes de Computadores em formação superior em TI  
+- 🔧 Interesse em suporte técnico, redes e infraestrutura  
+- 📚 Em constante aprendizado, com foco em desenvolvimento profissional  
+- 💼 Experiência com atendimento ao público e suporte técnico, desenvolvendo comunicação e resolução de problemas
+- 🚀 Buscando oportunidade de estágio na área de TI para aplicar e ampliar meus conhecimentos 
 
 ---
 
