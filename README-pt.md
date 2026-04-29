@@ -73,7 +73,12 @@ HTML | CSS | JavaScript (básico) | Node.js (noções) | SQL (básico)
 
 ### 🧠 SmartCare – Sistema de Monitoramento para Idosos
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-GitHub-black?style=flat&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
+📌 **Projeto prático de IoT voltado para monitoramento remoto**
+
+🔗 **Confira abaixo meu principal projeto prático:**
+<br>
+
+[![SmartCare no GitHub](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/CrisleiKeliJenuino/SmartCare)
 
 📡 Desenvolvimento de sistema com ESP32 utilizando protocolo MQTT   
 📊 Monitoramento e transmissão de dados em tempo real  
